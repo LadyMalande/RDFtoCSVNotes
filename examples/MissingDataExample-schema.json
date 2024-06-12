@@ -1,0 +1,27 @@
+{
+  "fields": [
+    {
+      "name": "rok",
+      "title": "Rok",
+      "type": "integer",
+      "description": "Toto pole obsahuje rok"
+    },
+    {
+      "name": "prumerny_plat_cssz",
+      "title": "Průměrný plat ČSSZ",
+      "type": "integer",
+      "description": "Průměrný plat pro všechny zaměstnance ČSSZ"
+    },
+    {
+      "name": "median",
+      "title": "Medián",
+      "type": "integer",
+      "description": "Medián platu pro všechny zaměstnance ČSSZ"
+    }
+
+  ],
+  "primaryKey": [
+    "rok"
+  ]
+
+}
