@@ -63,7 +63,6 @@ workspace "RDFtoCSV" "Pracovní složka pro diagramy RDFtoCSV" {
 		output_processorComponent -> RDFtoCSVAPIController "Vrací .zip webové službě"
 		RDFtoCSVAPIController -> RDFtoCSVWebApplication "Vrací .zip klientovi"
 
-
         deploymentEnvironment "Produkce" {
             deploymentNode "Onrender server" "" "" {
 
