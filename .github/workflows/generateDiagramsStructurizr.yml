@@ -3,7 +3,7 @@ name: Update Structurizr Diagrams
 on:
     push:
         branches:
-        - master
+        - main
         paths:
         - 'docs/workspace.dsl' # This setting will have the action trigger only if certain file changes. Set the location of your DSL.
 
