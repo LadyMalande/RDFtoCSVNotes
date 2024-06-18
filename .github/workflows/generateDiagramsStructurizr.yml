@@ -1,7 +1,7 @@
 name: Update Structurizr Diagrams
 
 on:
-    push:
+    pull_request:
         branches:
         - main
         paths:
