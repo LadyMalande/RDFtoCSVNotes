@@ -27,7 +27,6 @@ workspace "RDFtoCSV" "Pracovní složka pro diagramy RDFtoCSV" {
 			RDFtoCSVAPI = container "RDFtoCSV backend" "Převádí RDF do CSV" "Backend" {
                RDFtoCSVAPIController = component "RDFtoCSV API" "Zpracovává požadavky" "REST" "Controller"
             }
-            !docs docs
         }
 
         // software system relationships
