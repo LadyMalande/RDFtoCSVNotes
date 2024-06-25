@@ -2,22 +2,32 @@ function transform(message) {
 
     if (!message) return
     // Update header text
-    const pattern3 = /_%3A/g;
+	console.log("message" + message)
+    const pattern3 = /%23blankNodeValue%23_%3A/g;
 
     const updatedmessage2 = message.replace(pattern3, (match) => {
-        return "_:"; // Remove the first two characters and the last character
+        return match.slice(0,-3) + ":"; // Remove the first two characters and the last character
     });
+	
+	console.log("updatedmessage2 " + updatedmessage2)
     const pattern = /<.*%23blankNodeValue%23_:/g;
 
     const message2 = updatedmessage2.replace(pattern, (match) => {
         return match.slice(-2); // Remove the first two characters and the last character
     });
+	
+	const pattern4 = /\"[^"]*%23blankNodeValue%23_:/g;
 
+    const message3 = message2.replace(pattern4, (match) => {
+        return match.charAt(0) + match.slice(-2); // Remove the first two characters and the last character
+    });
+	console.log(message3)
     const pattern2 = /_:.*?>/g;
 
-    const updatedmessage = message2.replace(pattern2, (match) => {
+    const updatedmessage = message3.replace(pattern2, (match) => {
         return match.slice(0, -1); // Remove the first two characters and the last character
     });
+
 
     return updatedmessage
 }
