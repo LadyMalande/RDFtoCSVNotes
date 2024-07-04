@@ -11,7 +11,7 @@ workspace "RDFtoCSV" "Pracovní složka pro diagramy RDFtoCSV" {
             group "Uživatelská prostředí" {
                 RDFtoCSVWebApplication = container "RDFtoCSV Webová aplikace" "Umožňuje převod dat z RDF do CSV a umožňuje přečíst si informace o RDFtoCSV" "Webová aplikace" "Webová stránka"
 
-                RDFtoCSVCmdLine = container "RDFtoCSV Příkazová řádka" "Umožňuje volat převod dat z RDF do CSV z příkazové řádky" "Příkazová řádka" ""
+                RDFtoCSVCmdLine = container "RDFtoCSV Příkazový řádek" "Umožňuje volat převod dat z RDF do CSV z příkazového řádku" "Příkazový řádek" ""
             }
 
             RDFtoCSVlibrary = container "RDFtoCSV knihovna" "Převádí RDF do CSV" "Knihovna" "Jiný softwarový systém" {				
