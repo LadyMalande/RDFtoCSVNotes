@@ -1,0 +1,1 @@
+rdf serialize --input-format tabular --output-format turtle --minimal --metadata testingInput.ttl.csv-metadata.json > redoneRDF.ttl
