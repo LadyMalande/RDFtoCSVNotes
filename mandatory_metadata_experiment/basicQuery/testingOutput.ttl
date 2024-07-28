@@ -1,0 +1,13 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<file:myThesis> dc:title "Automatický převod RDF dat do CSV"@cs,
+    "Jin7 n8yev"@cs,
+    "Automated transformation of RDF data to CSV"@en;
+  dc:creator <http://example.org/TerezaMikl%C3%B3%C5%A1ov%C3%A1> .
+
+<http://example.org/myGraph> a rdf:Graph,
+    dcmitype:Text .
+
+<http://example.org/myThesis> a dcmitype:Text .
