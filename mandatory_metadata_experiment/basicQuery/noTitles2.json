@@ -8,27 +8,23 @@
       "@type" : "Schema",
       "columns" : [ {
         "@type" : "Column",
-        "titles" : "Text",
         "name" : "Text",
         "valueUrl" : "http://example.org/{+Text}",
         "suppressOutput" : true
       }, {
         "@type" : "Column",
-        "titles" : "type",
         "name" : "type",
         "propertyUrl" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
         "valueUrl" : "{+type}",
         "aboutUrl" : "http://example.org/{+Text}"
       }, {
         "@type" : "Column",
-        "titles" : "creator",
         "name" : "creator",
         "propertyUrl" : "http://purl.org/dc/terms/creator",
         "valueUrl" : "http://example.org/{+creator}",
         "aboutUrl" : "http://example.org/{+Text}"
       }, {
         "@type" : "Column",
-        "titles" : "title (cs)",
         "name" : "title_cs",
         "propertyUrl" : "http://purl.org/dc/terms/title",
         "aboutUrl" : "http://example.org/{+Text}",
@@ -36,14 +32,12 @@
         "separator" : ","
       }, {
         "@type" : "Column",
-        "titles" : "title (en)",
         "name" : "title_en",
         "propertyUrl" : "http://purl.org/dc/terms/title",
         "aboutUrl" : "http://example.org/{+Text}",
         "lang" : "en"
       }, {
         "@type" : "Column",
-        "titles" : "title (pl)",
         "name" : "title_pl",
         "propertyUrl" : "http://purl.org/dc/terms/title",
         "aboutUrl" : "http://example.org/{+Text}",
