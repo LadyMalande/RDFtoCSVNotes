@@ -1,0 +1,6 @@
+Text,type,Creator,Title (cs),Title (en),parts,startDate
+myThesis,Text,TerezaMiklóšová,Automatický převod RDF dat do CSV,Automated transformation of RDF data to CSV,,
+myJavaDoc,Text,TerezaMiklóšová,Javadoc dokumentace pro diplomovou práci,Javadoc documentation for thesis project,,
+myProject,Software,TerezaMiklóšová,Generování pravidel SHACL a ShEx podle konceptuálního datového modelu,Generating SHACL and ShEx rules based on conceptual data model,3,
+myProject2,Software,TerezaMiklóšová,Projekt 2,Project Two,,2024-01-12
+,,,
