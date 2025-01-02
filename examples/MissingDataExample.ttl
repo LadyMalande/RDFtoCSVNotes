@@ -1,6 +1,5 @@
 
-<https://data.cssz.cz/resource/dataset/prumerny-plat-v-cssz> {
-        <https://data.cssz.cz/resource/dataset/prumerny-plat-v-cssz> a <http://purl.org/linked-data/cube#DataSet>;
+<https://data.cssz.cz/resource/dataset/prumerny-plat-v-cssz> a <http://purl.org/linked-data/cube#DataSet>;
     <http://purl.org/dc/terms/title> "Průměrný plat a medián v ČSSZ"@cs;
     <http://www.w3.org/2000/01/rdf-schema#label> "Průměrný plat a medián v ČSSZ"@cs;
     <http://purl.org/dc/terms/description> "Výše průměrného platu a mediánu v ČSSZ v jednotlivých letech v Kč"@cs;
@@ -231,4 +230,4 @@ _:node1hn5nr482x469 <http://purl.org/linked-data/cube#measure> <https://data.css
     <https://data.cssz.cz/ontology/dimension/rok> <https://data.cssz.cz/resource/reference.data.gov.uk/id/gregorian-year/2021>;
     <http://purl.org/linked-data/cube#measureType> <https://data.cssz.cz/ontology/measure/prumerny-plat-cssz>;
     <https://data.cssz.cz/ontology/measure/prumerny-plat-cssz> 34039 .
-        }
+
