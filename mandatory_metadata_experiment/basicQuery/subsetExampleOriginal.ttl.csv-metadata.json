@@ -8,9 +8,9 @@
       "@type" : "Schema",
       "columns" : [ {
         "@type" : "Column",
-        "titles" : "Text",
-        "name" : "Text",
-        "valueUrl" : "http://example.org/{+Text}",
+        "titles" : "Subjekt",
+        "name" : "Subjekt",
+        "valueUrl" : "http://example.org/{+Subjekt}",
         "suppressOutput" : true
       }, {
         "@type" : "Column",
@@ -57,12 +57,12 @@
       }, {
         "@type" : "Column",
         "propertyUrl" : "rdf:type",
-        "valueUrl" : "http://purl.org/dc/dcmitype/Text",
+        "valueUrl" : "{+type}",
         "aboutUrl" : "http://example.org/{+Text}",
         "virtual" : true
       } ],
-      "primaryKey" : "Text",
-      "rowTitles" : [ "Text", "type", "creator", "title_cs", "title_en", "parts", "startDate" ]
+      "primaryKey" : "Subjekt",
+      "rowTitles" : [ "Subjekt", "type", "creator", "title_cs", "title_en", "parts", "startDate" ]
     }
   } ]
 }
