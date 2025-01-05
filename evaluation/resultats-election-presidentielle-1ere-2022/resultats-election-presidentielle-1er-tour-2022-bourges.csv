@@ -1,0 +1,697 @@
+COMMUNE_NOM;COLL_INSEE;BUREAU;CODE_ELECTION;NOM_ELECTION;TOUR;DATE;CODE_BUREAU;NOM_BUREAU;CODE_CIRCONSCRITPION;NOM_CIRCONSCRIPTION;CODE_CANTON;NOM_CANTON;INSCRITS;VOTANTS;PARTICIPATION;BLANCS;NULS;EXPRIMES;CANDIDAT;NB_VOIX;POURCENTAGE
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Nathalie ARTHAUD;3;0.57
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Fabien ROUSSEL;11;2.09
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Emmanuel MACRON;175;33.21
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Jean LASSALLE;14;2.66
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Marine LE PEN;61;11.57
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Éric ZEMMOUR;58;11.01
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Jean-Luc MÉLENCHON;99;18.79
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Anne HIDALGO;9;1.71
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Yannick JADOT;24;4.55
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Valérie PÉCRESSE;60;11.39
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Philippe POUTOU;5;0.95
+BOURGES;18033;01 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;1;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;749;536;71.56;9;0;527;Nicolas DUPONT-AIGNAN;8;1.52
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Nathalie ARTHAUD;1;0.19
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Fabien ROUSSEL;4;0.75
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Emmanuel MACRON;172;32.33
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Jean LASSALLE;13;2.44
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Marine LE PEN;72;13.53
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Éric ZEMMOUR;69;12.97
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Jean-Luc MÉLENCHON;101;18.98
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Anne HIDALGO;4;0.75
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Yannick JADOT;33;6.2
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Valérie PÉCRESSE;53;9.96
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Philippe POUTOU;4;0.75
+BOURGES;18033;02 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;2;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;734;541;73.71;9;0;532;Nicolas DUPONT-AIGNAN;6;1.13
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Nathalie ARTHAUD;1;0.22
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Fabien ROUSSEL;9;1.97
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Emmanuel MACRON;169;36.98
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Jean LASSALLE;10;2.19
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Marine LE PEN;42;9.19
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Éric ZEMMOUR;46;10.07
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Jean-Luc MÉLENCHON;96;21.01
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Anne HIDALGO;4;0.88
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Yannick JADOT;27;5.91
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Valérie PÉCRESSE;39;8.53
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Philippe POUTOU;1;0.22
+BOURGES;18033;03 - HOTEL DE VILLE;55;Élection Présidentielle 1er tour;1;2022-04-10;3;HOTEL DE VILLE;1;1ère circonscription;6;Canton Bourges-4;642;468;72.9;11;0;457;Nicolas DUPONT-AIGNAN;13;2.84
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Nathalie ARTHAUD;1;0.17
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Fabien ROUSSEL;10;1.73
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Emmanuel MACRON;193;33.33
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Jean LASSALLE;14;2.42
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Marine LE PEN;77;13.3
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Éric ZEMMOUR;52;8.98
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Jean-Luc MÉLENCHON;124;21.42
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Anne HIDALGO;16;2.76
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Yannick JADOT;38;6.56
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Valérie PÉCRESSE;40;6.91
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Philippe POUTOU;2;0.35
+BOURGES;18033;04 - NICOLAS LEBLANC;55;Élection Présidentielle 1er tour;1;2022-04-10;4;NICOLAS LEBLANC;1;1ère circonscription;5;Canton Bourges-3;821;594;72.35;15;0;579;Nicolas DUPONT-AIGNAN;12;2.07
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Nathalie ARTHAUD;2;0.44
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Fabien ROUSSEL;10;2.21
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Emmanuel MACRON;154;34.07
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Jean LASSALLE;11;2.43
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Marine LE PEN;103;22.79
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Éric ZEMMOUR;24;5.31
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Jean-Luc MÉLENCHON;87;19.25
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Anne HIDALGO;8;1.77
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Yannick JADOT;12;2.65
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Valérie PÉCRESSE;31;6.86
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Philippe POUTOU;3;0.66
+BOURGES;18033;05 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;5;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;724;462;63.81;10;0;452;Nicolas DUPONT-AIGNAN;7;1.55
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Nathalie ARTHAUD;2;0.41
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Fabien ROUSSEL;21;4.28
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Emmanuel MACRON;146;29.74
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Jean LASSALLE;10;2.04
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Marine LE PEN;54;11.0
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Éric ZEMMOUR;37;7.54
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Jean-Luc MÉLENCHON;136;27.7
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Anne HIDALGO;15;3.05
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Yannick JADOT;31;6.31
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Valérie PÉCRESSE;21;4.28
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Philippe POUTOU;5;1.02
+BOURGES;18033;06 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;6;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;720;503;69.86;12;0;491;Nicolas DUPONT-AIGNAN;13;2.65
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Nathalie ARTHAUD;4;0.83
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Fabien ROUSSEL;16;3.31
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Emmanuel MACRON;128;26.45
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Jean LASSALLE;12;2.48
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Marine LE PEN;146;30.17
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Éric ZEMMOUR;16;3.31
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Jean-Luc MÉLENCHON;109;22.52
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Anne HIDALGO;6;1.24
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Yannick JADOT;8;1.65
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Valérie PÉCRESSE;22;4.55
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Philippe POUTOU;3;0.62
+BOURGES;18033;07 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;7;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;781;502;64.28;18;0;484;Nicolas DUPONT-AIGNAN;14;2.89
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Nathalie ARTHAUD;5;1.05
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Fabien ROUSSEL;14;2.93
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Emmanuel MACRON;137;28.66
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Jean LASSALLE;6;1.26
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Marine LE PEN;90;18.83
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Éric ZEMMOUR;33;6.9
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Jean-Luc MÉLENCHON;123;25.73
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Anne HIDALGO;10;2.09
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Yannick JADOT;25;5.23
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Valérie PÉCRESSE;21;4.39
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Philippe POUTOU;1;0.21
+BOURGES;18033;08 - PIGNOUX;55;Élection Présidentielle 1er tour;1;2022-04-10;8;PIGNOUX;1;1ère circonscription;5;Canton Bourges-3;735;494;67.21;16;0;478;Nicolas DUPONT-AIGNAN;13;2.72
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Nathalie ARTHAUD;1;0.22
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Fabien ROUSSEL;12;2.68
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Emmanuel MACRON;123;27.52
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Jean LASSALLE;14;3.13
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Marine LE PEN;96;21.48
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Éric ZEMMOUR;30;6.71
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Jean-Luc MÉLENCHON;97;21.7
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Anne HIDALGO;7;1.57
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Yannick JADOT;28;6.26
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Valérie PÉCRESSE;21;4.7
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Philippe POUTOU;5;1.12
+BOURGES;18033;09 - MARCEL SEMBAT;55;Élection Présidentielle 1er tour;1;2022-04-10;9;MARCEL SEMBAT;1;1ère circonscription;6;Canton Bourges-4;724;468;64.64;21;0;447;Nicolas DUPONT-AIGNAN;13;2.91
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Nathalie ARTHAUD;2;0.29
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Fabien ROUSSEL;22;3.15
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Emmanuel MACRON;228;32.62
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Jean LASSALLE;19;2.72
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Marine LE PEN;129;18.45
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Éric ZEMMOUR;52;7.44
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Jean-Luc MÉLENCHON;108;15.45
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Anne HIDALGO;18;2.58
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Yannick JADOT;51;7.3
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Valérie PÉCRESSE;50;7.15
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Philippe POUTOU;7;1.0
+BOURGES;18033;10 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;10;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;989;715;72.3;16;0;699;Nicolas DUPONT-AIGNAN;13;1.86
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Nathalie ARTHAUD;8;1.21
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Fabien ROUSSEL;18;2.73
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Emmanuel MACRON;204;30.96
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Jean LASSALLE;16;2.43
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Marine LE PEN;83;12.59
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Éric ZEMMOUR;79;11.99
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Jean-Luc MÉLENCHON;114;17.3
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Anne HIDALGO;15;2.28
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Yannick JADOT;42;6.37
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Valérie PÉCRESSE;68;10.32
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Philippe POUTOU;4;0.61
+BOURGES;18033;11 - JEAN BAFFIER;55;Élection Présidentielle 1er tour;1;2022-04-10;11;JEAN BAFFIER;1;1ère circonscription;6;Canton Bourges-4;1005;676;67.26;17;0;659;Nicolas DUPONT-AIGNAN;8;1.21
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Nathalie ARTHAUD;0;0.0
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Fabien ROUSSEL;1;1.32
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Emmanuel MACRON;23;30.26
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Jean LASSALLE;2;2.63
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Marine LE PEN;13;17.11
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Éric ZEMMOUR;4;5.26
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Jean-Luc MÉLENCHON;23;30.26
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Anne HIDALGO;0;0.0
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Yannick JADOT;6;7.89
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Valérie PÉCRESSE;4;5.26
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Philippe POUTOU;0;0.0
+BOURGES;18033;12 - LA ROTTEE;55;Élection Présidentielle 1er tour;1;2022-04-10;12;LA ROTTEE;3;3ème circonscription;6;Canton Bourges-4;103;78;75.73;2;0;76;Nicolas DUPONT-AIGNAN;0;0.0
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Nathalie ARTHAUD;2;0.32
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Fabien ROUSSEL;10;1.58
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Emmanuel MACRON;211;33.28
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Jean LASSALLE;14;2.21
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Marine LE PEN;82;12.93
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Éric ZEMMOUR;66;10.41
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Jean-Luc MÉLENCHON;116;18.3
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Anne HIDALGO;14;2.21
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Yannick JADOT;48;7.57
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Valérie PÉCRESSE;47;7.41
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Philippe POUTOU;3;0.47
+BOURGES;18033;13 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;13;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;1055;654;61.99;20;0;634;Nicolas DUPONT-AIGNAN;21;3.31
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Nathalie ARTHAUD;1;0.15
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Fabien ROUSSEL;11;1.68
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Emmanuel MACRON;187;28.55
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Jean LASSALLE;10;1.53
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Marine LE PEN;91;13.89
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Éric ZEMMOUR;56;8.55
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Jean-Luc MÉLENCHON;181;27.63
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Anne HIDALGO;17;2.6
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Yannick JADOT;37;5.65
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Valérie PÉCRESSE;49;7.48
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Philippe POUTOU;6;0.92
+BOURGES;18033;14 - BEAUMONT;55;Élection Présidentielle 1er tour;1;2022-04-10;14;BEAUMONT;3;3ème circonscription;6;Canton Bourges-4;991;673;67.91;18;0;655;Nicolas DUPONT-AIGNAN;9;1.37
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Nathalie ARTHAUD;3;0.47
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Fabien ROUSSEL;18;2.79
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Emmanuel MACRON;206;31.94
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Jean LASSALLE;17;2.64
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Marine LE PEN;107;16.59
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Éric ZEMMOUR;39;6.05
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Jean-Luc MÉLENCHON;145;22.48
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Anne HIDALGO;19;2.95
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Yannick JADOT;35;5.43
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Valérie PÉCRESSE;40;6.2
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Philippe POUTOU;2;0.31
+BOURGES;18033;15 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;15;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;926;669;72.25;24;0;645;Nicolas DUPONT-AIGNAN;14;2.17
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Nathalie ARTHAUD;5;0.78
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Fabien ROUSSEL;33;5.17
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Emmanuel MACRON;225;35.27
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Jean LASSALLE;11;1.72
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Marine LE PEN;101;15.83
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Éric ZEMMOUR;38;5.96
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Jean-Luc MÉLENCHON;125;19.59
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Anne HIDALGO;19;2.98
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Yannick JADOT;34;5.33
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Valérie PÉCRESSE;33;5.17
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Philippe POUTOU;6;0.94
+BOURGES;18033;16 - PIJOLINS;55;Élection Présidentielle 1er tour;1;2022-04-10;16;PIJOLINS;3;3ème circonscription;6;Canton Bourges-4;909;655;72.06;17;0;638;Nicolas DUPONT-AIGNAN;8;1.25
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Nathalie ARTHAUD;4;0.9
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Fabien ROUSSEL;17;3.83
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Emmanuel MACRON;138;31.08
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Jean LASSALLE;21;4.73
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Marine LE PEN;99;22.3
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Éric ZEMMOUR;31;6.98
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Jean-Luc MÉLENCHON;63;14.19
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Anne HIDALGO;15;3.38
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Yannick JADOT;15;3.38
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Valérie PÉCRESSE;27;6.08
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Philippe POUTOU;3;0.68
+BOURGES;18033;17 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;17;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;705;463;65.67;19;0;444;Nicolas DUPONT-AIGNAN;11;2.48
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Nathalie ARTHAUD;1;0.23
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Fabien ROUSSEL;10;2.29
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Emmanuel MACRON;147;33.64
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Jean LASSALLE;4;0.92
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Marine LE PEN;83;18.99
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Éric ZEMMOUR;25;5.72
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Jean-Luc MÉLENCHON;102;23.34
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Anne HIDALGO;10;2.29
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Yannick JADOT;20;4.58
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Valérie PÉCRESSE;24;5.49
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Philippe POUTOU;3;0.69
+BOURGES;18033;18 - JULES FERRY;55;Élection Présidentielle 1er tour;1;2022-04-10;18;JULES FERRY;3;3ème circonscription;3;Canton Bourges-1;706;452;64.02;15;0;437;Nicolas DUPONT-AIGNAN;8;1.83
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Nathalie ARTHAUD;7;2.27
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Fabien ROUSSEL;8;2.6
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Emmanuel MACRON;61;19.81
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Jean LASSALLE;3;0.97
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Marine LE PEN;69;22.4
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Éric ZEMMOUR;30;9.74
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Jean-Luc MÉLENCHON;98;31.82
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Anne HIDALGO;5;1.62
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Yannick JADOT;6;1.95
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Valérie PÉCRESSE;10;3.25
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Philippe POUTOU;5;1.62
+BOURGES;18033;19 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;19;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;668;317;47.46;9;0;308;Nicolas DUPONT-AIGNAN;6;1.95
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Nathalie ARTHAUD;5;1.09
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Fabien ROUSSEL;15;3.28
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Emmanuel MACRON;141;30.85
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Jean LASSALLE;13;2.84
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Marine LE PEN;96;21.01
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Éric ZEMMOUR;34;7.44
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Jean-Luc MÉLENCHON;95;20.79
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Anne HIDALGO;11;2.41
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Yannick JADOT;19;4.16
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Valérie PÉCRESSE;15;3.28
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Philippe POUTOU;4;0.88
+BOURGES;18033;20 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;20;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;720;469;65.14;12;0;457;Nicolas DUPONT-AIGNAN;9;1.97
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Nathalie ARTHAUD;2;0.37
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Fabien ROUSSEL;14;2.61
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Emmanuel MACRON;198;36.87
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Jean LASSALLE;14;2.61
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Marine LE PEN;100;18.62
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Éric ZEMMOUR;28;5.21
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Jean-Luc MÉLENCHON;114;21.23
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Anne HIDALGO;9;1.68
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Yannick JADOT;33;6.15
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Valérie PÉCRESSE;18;3.35
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Philippe POUTOU;2;0.37
+BOURGES;18033;21 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;21;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;756;550;72.75;13;0;537;Nicolas DUPONT-AIGNAN;5;0.93
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Nathalie ARTHAUD;3;0.46
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Fabien ROUSSEL;15;2.32
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Emmanuel MACRON;222;34.37
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Jean LASSALLE;11;1.7
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Marine LE PEN;127;19.66
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Éric ZEMMOUR;67;10.37
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Jean-Luc MÉLENCHON;106;16.41
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Anne HIDALGO;13;2.01
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Yannick JADOT;36;5.57
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Valérie PÉCRESSE;29;4.49
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Philippe POUTOU;4;0.62
+BOURGES;18033;22 - JEAN MACE;55;Élection Présidentielle 1er tour;1;2022-04-10;22;JEAN MACE;3;3ème circonscription;3;Canton Bourges-1;870;662;76.09;16;0;646;Nicolas DUPONT-AIGNAN;13;2.01
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Nathalie ARTHAUD;5;1.18
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Fabien ROUSSEL;11;2.59
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Emmanuel MACRON;144;33.88
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Jean LASSALLE;8;1.88
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Marine LE PEN;87;20.47
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Éric ZEMMOUR;28;6.59
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Jean-Luc MÉLENCHON;82;19.29
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Anne HIDALGO;9;2.12
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Yannick JADOT;15;3.53
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Valérie PÉCRESSE;21;4.94
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Philippe POUTOU;1;0.24
+BOURGES;18033;23 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;23;BARBES;3;3ème circonscription;3;Canton Bourges-1;630;434;68.89;9;0;425;Nicolas DUPONT-AIGNAN;14;3.29
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Nathalie ARTHAUD;3;0.66
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Fabien ROUSSEL;12;2.65
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Emmanuel MACRON;141;31.13
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Jean LASSALLE;8;1.77
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Marine LE PEN;76;16.78
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Éric ZEMMOUR;33;7.28
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Jean-Luc MÉLENCHON;104;22.96
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Anne HIDALGO;11;2.43
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Yannick JADOT;20;4.42
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Valérie PÉCRESSE;32;7.06
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Philippe POUTOU;2;0.44
+BOURGES;18033;24 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;24;BARBES;3;3ème circonscription;3;Canton Bourges-1;720;465;64.58;12;0;453;Nicolas DUPONT-AIGNAN;11;2.43
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Nathalie ARTHAUD;6;1.15
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Fabien ROUSSEL;10;1.92
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Emmanuel MACRON;141;27.06
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Jean LASSALLE;8;1.54
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Marine LE PEN;73;14.01
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Éric ZEMMOUR;48;9.21
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Jean-Luc MÉLENCHON;139;26.68
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Anne HIDALGO;15;2.88
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Yannick JADOT;28;5.37
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Valérie PÉCRESSE;34;6.53
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Philippe POUTOU;8;1.54
+BOURGES;18033;25 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;25;BARBES;3;3ème circonscription;3;Canton Bourges-1;732;540;73.77;19;0;521;Nicolas DUPONT-AIGNAN;11;2.11
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Nathalie ARTHAUD;3;0.57
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Fabien ROUSSEL;20;3.78
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Emmanuel MACRON;145;27.41
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Jean LASSALLE;14;2.65
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Marine LE PEN;108;20.42
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Éric ZEMMOUR;32;6.05
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Jean-Luc MÉLENCHON;146;27.6
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Anne HIDALGO;7;1.32
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Yannick JADOT;29;5.48
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Valérie PÉCRESSE;12;2.27
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Philippe POUTOU;2;0.38
+BOURGES;18033;26 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;26;BARBES;3;3ème circonscription;3;Canton Bourges-1;830;551;66.39;22;0;529;Nicolas DUPONT-AIGNAN;11;2.08
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Nathalie ARTHAUD;5;0.71
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Fabien ROUSSEL;28;4.0
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Emmanuel MACRON;212;30.29
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Jean LASSALLE;18;2.57
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Marine LE PEN;153;21.86
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Éric ZEMMOUR;49;7.0
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Jean-Luc MÉLENCHON;157;22.43
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Anne HIDALGO;18;2.57
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Yannick JADOT;24;3.43
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Valérie PÉCRESSE;23;3.29
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Philippe POUTOU;5;0.71
+BOURGES;18033;27 - BARBES;55;Élection Présidentielle 1er tour;1;2022-04-10;27;BARBES;3;3ème circonscription;3;Canton Bourges-1;1040;719;69.13;19;0;700;Nicolas DUPONT-AIGNAN;8;1.14
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Nathalie ARTHAUD;4;0.65
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Fabien ROUSSEL;22;3.59
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Emmanuel MACRON;249;40.62
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Jean LASSALLE;9;1.47
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Marine LE PEN;103;16.8
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Éric ZEMMOUR;36;5.87
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Jean-Luc MÉLENCHON;101;16.48
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Anne HIDALGO;7;1.14
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Yannick JADOT;24;3.92
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Valérie PÉCRESSE;42;6.85
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Philippe POUTOU;5;0.82
+BOURGES;18033;28 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;28;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;950;628;66.11;15;0;613;Nicolas DUPONT-AIGNAN;11;1.79
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Nathalie ARTHAUD;6;1.09
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Fabien ROUSSEL;10;1.81
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Emmanuel MACRON;157;28.49
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Jean LASSALLE;21;3.81
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Marine LE PEN;149;27.04
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Éric ZEMMOUR;24;4.36
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Jean-Luc MÉLENCHON;115;20.87
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Anne HIDALGO;11;2.0
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Yannick JADOT;25;4.54
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Valérie PÉCRESSE;15;2.72
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Philippe POUTOU;5;0.91
+BOURGES;18033;29 - MARYSE BASTIE;55;Élection Présidentielle 1er tour;1;2022-04-10;29;MARYSE BASTIE;3;3ème circonscription;3;Canton Bourges-1;958;568;59.29;17;0;551;Nicolas DUPONT-AIGNAN;13;2.36
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Nathalie ARTHAUD;1;0.22
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Fabien ROUSSEL;5;1.1
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Emmanuel MACRON;160;35.09
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Jean LASSALLE;14;3.07
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Marine LE PEN;47;10.31
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Éric ZEMMOUR;51;11.18
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Jean-Luc MÉLENCHON;101;22.15
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Anne HIDALGO;8;1.75
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Yannick JADOT;27;5.92
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Valérie PÉCRESSE;34;7.46
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Philippe POUTOU;0;0.0
+BOURGES;18033;30 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;30;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;654;466;71.25;10;0;456;Nicolas DUPONT-AIGNAN;8;1.75
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Nathalie ARTHAUD;3;0.49
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Fabien ROUSSEL;17;2.76
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Emmanuel MACRON;191;31.01
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Jean LASSALLE;22;3.57
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Marine LE PEN;93;15.1
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Éric ZEMMOUR;39;6.33
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Jean-Luc MÉLENCHON;160;25.97
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Anne HIDALGO;14;2.27
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Yannick JADOT;34;5.52
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Valérie PÉCRESSE;27;4.38
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Philippe POUTOU;5;0.81
+BOURGES;18033;31 - AURON HALLE;55;Élection Présidentielle 1er tour;1;2022-04-10;31;AURON HALLE;1;1ère circonscription;6;Canton Bourges-4;895;632;70.61;16;0;616;Nicolas DUPONT-AIGNAN;11;1.79
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Nathalie ARTHAUD;2;0.33
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Fabien ROUSSEL;21;3.46
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Emmanuel MACRON;202;33.28
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Jean LASSALLE;8;1.32
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Marine LE PEN;119;19.6
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Éric ZEMMOUR;33;5.44
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Jean-Luc MÉLENCHON;121;19.93
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Anne HIDALGO;14;2.31
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Yannick JADOT;32;5.27
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Valérie PÉCRESSE;34;5.6
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Philippe POUTOU;3;0.49
+BOURGES;18033;32 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;32;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;830;625;75.3;18;0;607;Nicolas DUPONT-AIGNAN;18;2.97
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Nathalie ARTHAUD;2;0.39
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Fabien ROUSSEL;15;2.95
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Emmanuel MACRON;194;38.19
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Jean LASSALLE;15;2.95
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Marine LE PEN;83;16.34
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Éric ZEMMOUR;23;4.53
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Jean-Luc MÉLENCHON;95;18.7
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Anne HIDALGO;12;2.36
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Yannick JADOT;27;5.31
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Valérie PÉCRESSE;24;4.72
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Philippe POUTOU;7;1.38
+BOURGES;18033;33 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;33;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;687;522;75.98;14;0;508;Nicolas DUPONT-AIGNAN;11;2.17
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Nathalie ARTHAUD;1;0.22
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Fabien ROUSSEL;13;2.85
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Emmanuel MACRON;163;35.75
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Jean LASSALLE;12;2.63
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Marine LE PEN;59;12.94
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Éric ZEMMOUR;30;6.58
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Jean-Luc MÉLENCHON;98;21.49
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Anne HIDALGO;13;2.85
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Yannick JADOT;33;7.24
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Valérie PÉCRESSE;20;4.39
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Philippe POUTOU;2;0.44
+BOURGES;18033;34 - HERBINIERE LEBERT;55;Élection Présidentielle 1er tour;1;2022-04-10;34;HERBINIERE LEBERT;1;1ère circonscription;3;Canton Bourges-1;688;471;68.46;15;0;456;Nicolas DUPONT-AIGNAN;12;2.63
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Nathalie ARTHAUD;2;0.38
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Fabien ROUSSEL;17;3.25
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Emmanuel MACRON;192;36.71
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Jean LASSALLE;13;2.49
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Marine LE PEN;73;13.96
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Éric ZEMMOUR;48;9.18
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Jean-Luc MÉLENCHON;100;19.12
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Anne HIDALGO;11;2.1
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Yannick JADOT;23;4.4
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Valérie PÉCRESSE;33;6.31
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Philippe POUTOU;4;0.76
+BOURGES;18033;35 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;35;LITTRE;1;1ère circonscription;6;Canton Bourges-4;797;535;67.13;12;0;523;Nicolas DUPONT-AIGNAN;7;1.34
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Nathalie ARTHAUD;1;0.19
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Fabien ROUSSEL;11;2.14
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Emmanuel MACRON;158;30.8
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Jean LASSALLE;12;2.34
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Marine LE PEN;61;11.89
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Éric ZEMMOUR;39;7.6
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Jean-Luc MÉLENCHON;140;27.29
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Anne HIDALGO;9;1.75
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Yannick JADOT;24;4.68
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Valérie PÉCRESSE;43;8.38
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Philippe POUTOU;6;1.17
+BOURGES;18033;36 - LITTRE;55;Élection Présidentielle 1er tour;1;2022-04-10;36;LITTRE;1;1ère circonscription;6;Canton Bourges-4;771;530;68.74;17;0;513;Nicolas DUPONT-AIGNAN;9;1.75
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Nathalie ARTHAUD;1;0.28
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Fabien ROUSSEL;13;3.63
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Emmanuel MACRON;94;26.26
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Jean LASSALLE;7;1.96
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Marine LE PEN;72;20.11
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Éric ZEMMOUR;30;8.38
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Jean-Luc MÉLENCHON;102;28.49
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Anne HIDALGO;3;0.84
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Yannick JADOT;11;3.07
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Valérie PÉCRESSE;14;3.91
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Philippe POUTOU;2;0.56
+BOURGES;18033;37 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;37;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;616;368;59.74;10;0;358;Nicolas DUPONT-AIGNAN;9;2.51
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Nathalie ARTHAUD;5;1.92
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Fabien ROUSSEL;10;3.85
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Emmanuel MACRON;54;20.77
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Jean LASSALLE;6;2.31
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Marine LE PEN;57;21.92
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Éric ZEMMOUR;13;5.0
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Jean-Luc MÉLENCHON;104;40.0
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Anne HIDALGO;0;0.0
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Yannick JADOT;1;0.38
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Valérie PÉCRESSE;4;1.54
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Philippe POUTOU;4;1.54
+BOURGES;18033;38 - CHANCELLERIE;55;Élection Présidentielle 1er tour;1;2022-04-10;38;CHANCELLERIE;1;1ère circonscription;4;Canton Bourges-2;483;267;55.28;7;0;260;Nicolas DUPONT-AIGNAN;2;0.77
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Nathalie ARTHAUD;3;0.76
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Fabien ROUSSEL;16;4.06
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Emmanuel MACRON;105;26.65
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Jean LASSALLE;14;3.55
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Marine LE PEN;62;15.74
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Éric ZEMMOUR;23;5.84
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Jean-Luc MÉLENCHON;106;26.9
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Anne HIDALGO;7;1.78
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Yannick JADOT;23;5.84
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Valérie PÉCRESSE;22;5.58
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Philippe POUTOU;3;0.76
+BOURGES;18033;39 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;39;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;635;406;63.94;12;0;394;Nicolas DUPONT-AIGNAN;10;2.54
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Nathalie ARTHAUD;3;1.0
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Fabien ROUSSEL;5;1.67
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Emmanuel MACRON;76;25.42
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Jean LASSALLE;9;3.01
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Marine LE PEN;57;19.06
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Éric ZEMMOUR;16;5.35
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Jean-Luc MÉLENCHON;108;36.12
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Anne HIDALGO;6;2.01
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Yannick JADOT;3;1.0
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Valérie PÉCRESSE;6;2.01
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Philippe POUTOU;3;1.0
+BOURGES;18033;40 - GRAND MEAULNES;55;Élection Présidentielle 1er tour;1;2022-04-10;40;GRAND MEAULNES;1;1ère circonscription;4;Canton Bourges-2;623;312;50.08;13;0;299;Nicolas DUPONT-AIGNAN;7;2.34
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Nathalie ARTHAUD;0;0.0
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Fabien ROUSSEL;12;2.92
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Emmanuel MACRON;136;33.09
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Jean LASSALLE;5;1.22
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Marine LE PEN;50;12.17
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Éric ZEMMOUR;17;4.14
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Jean-Luc MÉLENCHON;133;32.36
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Anne HIDALGO;8;1.95
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Yannick JADOT;17;4.14
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Valérie PÉCRESSE;24;5.84
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Philippe POUTOU;4;0.97
+BOURGES;18033;41 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;41;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;633;420;66.35;9;0;411;Nicolas DUPONT-AIGNAN;5;1.22
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Nathalie ARTHAUD;3;0.67
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Fabien ROUSSEL;11;2.44
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Emmanuel MACRON;172;38.22
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Jean LASSALLE;10;2.22
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Marine LE PEN;48;10.67
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Éric ZEMMOUR;39;8.67
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Jean-Luc MÉLENCHON;98;21.78
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Anne HIDALGO;12;2.67
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Yannick JADOT;21;4.67
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Valérie PÉCRESSE;25;5.56
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Philippe POUTOU;6;1.33
+BOURGES;18033;42 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;42;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;656;460;70.12;10;0;450;Nicolas DUPONT-AIGNAN;5;1.11
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Nathalie ARTHAUD;4;0.97
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Fabien ROUSSEL;17;4.11
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Emmanuel MACRON;149;35.99
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Jean LASSALLE;9;2.17
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Marine LE PEN;73;17.63
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Éric ZEMMOUR;30;7.25
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Jean-Luc MÉLENCHON;87;21.01
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Anne HIDALGO;5;1.21
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Yannick JADOT;15;3.62
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Valérie PÉCRESSE;20;4.83
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Philippe POUTOU;1;0.24
+BOURGES;18033;43 - COUR CHERTIER;55;Élection Présidentielle 1er tour;1;2022-04-10;43;COUR CHERTIER;1;1ère circonscription;4;Canton Bourges-2;673;425;63.15;11;0;414;Nicolas DUPONT-AIGNAN;4;0.97
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Nathalie ARTHAUD;5;1.47
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Fabien ROUSSEL;12;3.52
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Emmanuel MACRON;98;28.74
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Jean LASSALLE;3;0.88
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Marine LE PEN;61;17.89
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Éric ZEMMOUR;22;6.45
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Jean-Luc MÉLENCHON;85;24.93
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Anne HIDALGO;5;1.47
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Yannick JADOT;17;4.99
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Valérie PÉCRESSE;25;7.33
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Philippe POUTOU;2;0.59
+BOURGES;18033;44 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;44;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;614;350;57.0;9;0;341;Nicolas DUPONT-AIGNAN;6;1.76
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Nathalie ARTHAUD;4;0.9
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Fabien ROUSSEL;16;3.6
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Emmanuel MACRON;155;34.91
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Jean LASSALLE;13;2.93
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Marine LE PEN;75;16.89
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Éric ZEMMOUR;32;7.21
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Jean-Luc MÉLENCHON;83;18.69
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Anne HIDALGO;12;2.7
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Yannick JADOT;24;5.41
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Valérie PÉCRESSE;17;3.83
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Philippe POUTOU;3;0.68
+BOURGES;18033;45 - PRADO 2;55;Élection Présidentielle 1er tour;1;2022-04-10;45;PRADO 2;1;1ère circonscription;4;Canton Bourges-2;672;455;67.71;11;0;444;Nicolas DUPONT-AIGNAN;10;2.25
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Nathalie ARTHAUD;4;0.85
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Fabien ROUSSEL;20;4.27
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Emmanuel MACRON;117;25.0
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Jean LASSALLE;16;3.42
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Marine LE PEN;84;17.95
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Éric ZEMMOUR;27;5.77
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Jean-Luc MÉLENCHON;144;30.77
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Anne HIDALGO;14;2.99
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Yannick JADOT;12;2.56
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Valérie PÉCRESSE;23;4.91
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Philippe POUTOU;2;0.43
+BOURGES;18033;46 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;46;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;780;480;61.54;12;0;468;Nicolas DUPONT-AIGNAN;5;1.07
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Nathalie ARTHAUD;4;1.16
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Fabien ROUSSEL;15;4.36
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Emmanuel MACRON;88;25.58
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Jean LASSALLE;7;2.03
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Marine LE PEN;63;18.31
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Éric ZEMMOUR;13;3.78
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Jean-Luc MÉLENCHON;124;36.05
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Anne HIDALGO;7;2.03
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Yannick JADOT;8;2.33
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Valérie PÉCRESSE;9;2.62
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Philippe POUTOU;2;0.58
+BOURGES;18033;47 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;47;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;718;353;49.16;9;0;344;Nicolas DUPONT-AIGNAN;4;1.16
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Nathalie ARTHAUD;4;1.35
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Fabien ROUSSEL;4;1.35
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Emmanuel MACRON;70;23.57
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Jean LASSALLE;0;0.0
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Marine LE PEN;42;14.14
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Éric ZEMMOUR;10;3.37
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Jean-Luc MÉLENCHON;147;49.49
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Anne HIDALGO;4;1.35
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Yannick JADOT;2;0.67
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Valérie PÉCRESSE;8;2.69
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Philippe POUTOU;1;0.34
+BOURGES;18033;48 - PAUL ARNAULT;55;Élection Présidentielle 1er tour;1;2022-04-10;48;PAUL ARNAULT;1;1ère circonscription;5;Canton Bourges-3;685;299;43.65;2;0;297;Nicolas DUPONT-AIGNAN;5;1.68
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Nathalie ARTHAUD;1;0.25
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Fabien ROUSSEL;9;2.21
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Emmanuel MACRON;121;29.66
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Jean LASSALLE;7;1.72
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Marine LE PEN;57;13.97
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Éric ZEMMOUR;20;4.9
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Jean-Luc MÉLENCHON;122;29.9
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Anne HIDALGO;9;2.21
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Yannick JADOT;17;4.17
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Valérie PÉCRESSE;35;8.58
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Philippe POUTOU;1;0.25
+BOURGES;18033;49 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;49;TURLY;1;1ère circonscription;5;Canton Bourges-3;749;424;56.61;16;0;408;Nicolas DUPONT-AIGNAN;9;2.21
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Nathalie ARTHAUD;6;1.19
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Fabien ROUSSEL;17;3.37
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Emmanuel MACRON;176;34.85
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Jean LASSALLE;18;3.56
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Marine LE PEN;104;20.59
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Éric ZEMMOUR;26;5.15
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Jean-Luc MÉLENCHON;93;18.42
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Anne HIDALGO;12;2.38
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Yannick JADOT;16;3.17
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Valérie PÉCRESSE;27;5.35
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Philippe POUTOU;1;0.2
+BOURGES;18033;50 - TURLY;55;Élection Présidentielle 1er tour;1;2022-04-10;50;TURLY;1;1ère circonscription;5;Canton Bourges-3;729;523;71.74;18;0;505;Nicolas DUPONT-AIGNAN;9;1.78
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Nathalie ARTHAUD;6;1.5
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Fabien ROUSSEL;13;3.25
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Emmanuel MACRON;63;15.75
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Jean LASSALLE;8;2.0
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Marine LE PEN;65;16.25
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Éric ZEMMOUR;11;2.75
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Jean-Luc MÉLENCHON;209;52.25
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Anne HIDALGO;5;1.25
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Yannick JADOT;3;0.75
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Valérie PÉCRESSE;9;2.25
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Philippe POUTOU;7;1.75
+BOURGES;18033;51 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;51;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;874;408;46.68;8;0;400;Nicolas DUPONT-AIGNAN;1;0.25
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Nathalie ARTHAUD;8;1.09
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Fabien ROUSSEL;13;1.76
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Emmanuel MACRON;198;26.87
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Jean LASSALLE;14;1.9
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Marine LE PEN;161;21.85
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Éric ZEMMOUR;29;3.93
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Jean-Luc MÉLENCHON;249;33.79
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Anne HIDALGO;13;1.76
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Yannick JADOT;18;2.44
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Valérie PÉCRESSE;20;2.71
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Philippe POUTOU;4;0.54
+BOURGES;18033;52 - PRESSAVOIS;55;Élection Présidentielle 1er tour;1;2022-04-10;52;PRESSAVOIS;2;2ème circonscription;5;Canton Bourges-3;1179;749;63.53;12;0;737;Nicolas DUPONT-AIGNAN;10;1.36
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Nathalie ARTHAUD;5;1.53
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Fabien ROUSSEL;5;1.53
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Emmanuel MACRON;75;22.94
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Jean LASSALLE;5;1.53
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Marine LE PEN;60;18.35
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Éric ZEMMOUR;14;4.28
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Jean-Luc MÉLENCHON;140;42.81
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Anne HIDALGO;6;1.83
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Yannick JADOT;7;2.14
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Valérie PÉCRESSE;3;0.92
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Philippe POUTOU;2;0.61
+BOURGES;18033;53 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;53;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;633;332;52.45;5;0;327;Nicolas DUPONT-AIGNAN;5;1.53
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Nathalie ARTHAUD;1;0.32
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Fabien ROUSSEL;7;2.22
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Emmanuel MACRON;70;22.15
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Jean LASSALLE;4;1.27
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Marine LE PEN;59;18.67
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Éric ZEMMOUR;14;4.43
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Jean-Luc MÉLENCHON;150;47.47
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Anne HIDALGO;1;0.32
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Yannick JADOT;2;0.63
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Valérie PÉCRESSE;2;0.63
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Philippe POUTOU;4;1.27
+BOURGES;18033;54 - MARCEL PLAISANT;55;Élection Présidentielle 1er tour;1;2022-04-10;54;MARCEL PLAISANT;2;2ème circonscription;4;Canton Bourges-2;661;322;48.71;6;0;316;Nicolas DUPONT-AIGNAN;2;0.63
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Nathalie ARTHAUD;5;0.94
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Fabien ROUSSEL;13;2.44
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Emmanuel MACRON;166;31.14
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Jean LASSALLE;14;2.63
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Marine LE PEN;134;25.14
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Éric ZEMMOUR;39;7.32
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Jean-Luc MÉLENCHON;90;16.89
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Anne HIDALGO;7;1.31
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Yannick JADOT;24;4.5
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Valérie PÉCRESSE;27;5.07
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Philippe POUTOU;1;0.19
+BOURGES;18033;55 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;55;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;804;547;68.03;14;0;533;Nicolas DUPONT-AIGNAN;13;2.44
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Nathalie ARTHAUD;7;1.64
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Fabien ROUSSEL;18;4.22
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Emmanuel MACRON;121;28.34
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Jean LASSALLE;10;2.34
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Marine LE PEN;120;28.1
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Éric ZEMMOUR;20;4.68
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Jean-Luc MÉLENCHON;79;18.5
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Anne HIDALGO;7;1.64
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Yannick JADOT;16;3.75
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Valérie PÉCRESSE;23;5.39
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Philippe POUTOU;3;0.7
+BOURGES;18033;56 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;56;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;667;443;66.42;16;0;427;Nicolas DUPONT-AIGNAN;3;0.7
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Nathalie ARTHAUD;4;0.88
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Fabien ROUSSEL;15;3.28
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Emmanuel MACRON;129;28.23
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Jean LASSALLE;10;2.19
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Marine LE PEN;109;23.85
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Éric ZEMMOUR;21;4.6
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Jean-Luc MÉLENCHON;99;21.66
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Anne HIDALGO;10;2.19
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Yannick JADOT;29;6.35
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Valérie PÉCRESSE;16;3.5
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Philippe POUTOU;0;0.0
+BOURGES;18033;57 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;57;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;712;477;66.99;20;0;457;Nicolas DUPONT-AIGNAN;15;3.28
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Nathalie ARTHAUD;1;0.25
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Fabien ROUSSEL;27;6.65
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Emmanuel MACRON;128;31.53
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Jean LASSALLE;16;3.94
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Marine LE PEN;84;20.69
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Éric ZEMMOUR;18;4.43
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Jean-Luc MÉLENCHON;78;19.21
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Anne HIDALGO;21;5.17
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Yannick JADOT;12;2.96
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Valérie PÉCRESSE;13;3.2
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Philippe POUTOU;1;0.25
+BOURGES;18033;58 - JACQUES PREVERT;55;Élection Présidentielle 1er tour;1;2022-04-10;58;JACQUES PREVERT;2;2ème circonscription;4;Canton Bourges-2;641;420;65.52;14;0;406;Nicolas DUPONT-AIGNAN;7;1.72
