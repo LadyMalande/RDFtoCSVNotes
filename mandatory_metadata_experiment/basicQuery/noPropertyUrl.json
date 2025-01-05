@@ -1,0 +1,23 @@
+{
+  "@context" : "http://www.w3.org/ns/csvw",
+  "@type" : "TableGroup",
+  "tables" : [ {
+    "@type" : "Table",
+    "url" : "test001.ttlTestOutput0.csv",
+    "tableSchema" : {
+      "@type" : "Schema",
+      "columns" : [ {
+        "@type" : "Column",
+        "name" : "Subjekt",
+        "valueUrl" : "https://blank_Nodes_IRI.org/{+Subjekt}",
+        "suppressOutput" : true
+      }, {
+        "@type" : "Column",
+        "name" : "FamilyName"
+      }, {
+        "@type" : "Column",
+        "name" : "Surname"
+      } ]
+    }
+  } ]
+}

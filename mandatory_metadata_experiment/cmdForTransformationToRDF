@@ -1,0 +1,6 @@
+rdf serialize --input-format tabular --output-format turtle --minimal --metadata testingInput.ttl.csv-metadata.json > redoneRDFThesis.ttl
+rdf serialize --input-format tabular --output-format turtle --minimal --metadata test001.ttl.csv-metadata.json > redoneRDF2.ttl
+rdf serialize --input-format tabular --output-format turtle --minimal --metadata onlyMandatoryMetadata2.json > onlyMandatoryMetadata2.ttl
+rdf serialize --input-format tabular --output-format turtle --minimal --metadata noPropertyUrl2.json > noPropertyUrl2.ttl
+rdf serialize --input-format tabular --output-format turtle --minimal --metadata noRowTitles2.json > noRowTitles2.ttl
+rdf serialize --input-format tabular --output-format turtle --minimal --metadata noTitles2.json > noTitles2.ttl

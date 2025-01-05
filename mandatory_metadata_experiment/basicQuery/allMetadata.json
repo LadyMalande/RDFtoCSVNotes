@@ -23,7 +23,7 @@
         "name" : "Surname",
         "propertyUrl" : "file://test001.csv#Surname"
       } ],
-      "rowTitles" : [ null, null ]
+      "rowTitles" : [ "Subjekt", "FamilyName", "Surname" ]
     }
   } ]
 }

@@ -1,0 +1,57 @@
+{
+  "@context" : "http://www.w3.org/ns/csvw",
+  "@type" : "TableGroup",
+  "tables" : [ {
+    "@type" : "Table",
+    "url" : "testingInput.ttlTestOutput0.csv",
+    "tableSchema" : {
+      "@type" : "Schema",
+      "columns" : [ {
+        "@type" : "Column",
+        "titles" : "Text",
+        "name" : "Text",
+        "valueUrl" : "http://example.org/{+Text}",
+        "suppressOutput" : true
+      }, {
+        "@type" : "Column",
+        "titles" : "type",
+        "name" : "type",
+        "valueUrl" : "{+type}",
+        "aboutUrl" : "http://example.org/{+Text}"
+      }, {
+        "@type" : "Column",
+        "titles" : "creator",
+        "name" : "creator",
+        "valueUrl" : "http://example.org/{+creator}",
+        "aboutUrl" : "http://example.org/{+Text}"
+      }, {
+        "@type" : "Column",
+        "titles" : "title (cs)",
+        "name" : "title_cs",
+        "aboutUrl" : "http://example.org/{+Text}",
+        "lang" : "cs",
+        "separator" : ","
+      }, {
+        "@type" : "Column",
+        "titles" : "title (en)",
+        "name" : "title_en",
+        "aboutUrl" : "http://example.org/{+Text}",
+        "lang" : "en"
+      }, {
+        "@type" : "Column",
+        "titles" : "title (pl)",
+        "name" : "title_pl",
+        "aboutUrl" : "http://example.org/{+Text}",
+        "lang" : "pl"
+      }, {
+        "@type" : "Column",
+        "valueUrl" : "http://purl.org/dc/dcmitype/Text",
+        "aboutUrl" : "http://example.org/{+Text}",
+        "virtual" : true
+      } ],
+      "primaryKey" : "Text",
+      "aboutUrl" : "http://example.org/{+Text}",
+      "rowTitles" : [ "Text","type", "creator", "title_cs", "title_en", "title_pl" ]
+    }
+  } ]
+}

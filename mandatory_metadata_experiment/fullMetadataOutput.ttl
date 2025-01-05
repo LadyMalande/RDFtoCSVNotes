@@ -1,0 +1,41 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ [
+    <file://test001.csv#FamilyName> "Simpson";
+    <file://test001.csv#Surname> "Homer"
+  ] .
+
+ [
+    <file://test001.csv#FamilyName> "Simpson";
+    <file://test001.csv#Surname> "Marge"
+  ] .
+
+ [
+    <file://test001.csv#FamilyName> "Simpson";
+    <file://test001.csv#Surname> "Bart"
+  ] .
+
+ [
+    <file://test001.csv#FamilyName> "Simpson";
+    <file://test001.csv#Surname> "Lisa"
+  ] .
+
+ [
+    <file://test001.csv#FamilyName> "Simpson";
+    <file://test001.csv#Surname> "Maggie"
+  ] .
+
+ [
+    <file://test001.csv#FamilyName> "Flanders";
+    <file://test001.csv#Surname> "Ned"
+  ] .
+
+ [
+    <file://test001.csv#FamilyName> "the Clown";
+    <file://test001.csv#Surname> "Krusty"
+  ] .
+
+ [
+    <file://test001.csv#FamilyName> "Smithers";
+    <file://test001.csv#Surname> "Waylon"
+  ] .

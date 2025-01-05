@@ -1,0 +1,4 @@
+Text,type,creator,title (cs),title (en),title (pl)
+myThesis,http://purl.org/dc/dcmitype/Text,TerezaMiklóšová,"Automatický převod RDF dat do CSV,Jin7 n8yev",Automated transformation of RDF data to CSV,
+yourThesis,http://purl.org/dc/dcmitype/Text,LenkaHoráková,Tvoje diplomová práce,,Twoja praca magisterska
+myGraph,http://www.w3.org/1999/02/22-rdf-syntax-ns#Graph,,,,

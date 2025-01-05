@@ -11,20 +11,19 @@ workspace "RDFtoCSV" "Pracovní složka pro diagramy RDFtoCSV" {
             group "Uživatelská prostředí" {
                 RDFtoCSVWebApplication = container "RDFtoCSV Webová aplikace" "Umožňuje převod dat z RDF do CSV a umožňuje přečíst si informace o RDFtoCSV" "Webová aplikace" "Webová stránka"
 
-                RDFtoCSVCmdLine = container "RDFtoCSV Příkazová řádka" "Umožňuje volat převod dat z RDF do CSV z příkazové řádky" "Příkazová řádka" ""
+                RDFtoCSVCmdLine = container "RDFtoCSV Příkazový řádek" "Umožňuje volat převod dat z RDF do CSV z příkazového řádku" "Příkazový řádek" ""
             }
 
-            RDFtoCSVlibrary = container "RDFtoCSV knihovna" "Převádí RDF do CSV" "Knihovna" "Jiný softwarový systém" {				
+            RDFtoCSVlibrary = container "RDFtoCSV Knihovna" "Převádí RDF do CSV" "Knihovna" "Jiný softwarový systém" {
                 input_processorComponent = component "Input Processor" "Zpracovává vstup" "package" 
                 convertorComponent = component "Converter" "Převádí původní datový formát do vnitřní reprezentace pro další zpracování"
                 metadata_creatorComponent = component "Metadata Creator" "Vytváří metadata" 
                 metadata_enricherComponent = component "Metadata Enricher" "Obohacuje vytvořená metadata"
                 output_processorComponent = component "Output processor" "Zabaluje výstupní data"
-
                 supportComponent = component "Support" "Zpracovává různé požadavky"
             }
-			
-			RDFtoCSVAPI = container "RDFtoCSV backend" "Převádí RDF do CSV" "Backend" {
+
+			RDFtoCSVAPI = container "RDFtoCSV Webová služba" "Převádí RDF do CSV" "Backend" {
                RDFtoCSVAPIController = component "RDFtoCSV API" "Zpracovává požadavky" "REST" "Controller"
             }
         }
@@ -46,11 +45,12 @@ workspace "RDFtoCSV" "Pracovní složka pro diagramy RDFtoCSV" {
         RDFtoCSVWebApplication -> RDFtoCSVAPI "Posílá požadavky na převod dat"
         RDFtoCSVCmdLine -> RDFtoCSVlibrary "Sends stocking/unstocking requests"
 		RDFtoCSVAPI -> RDFtoCSVlibrary "Volá funkci knihovny pro převod RDF do CSV"
-		
-        // backend Component relationships
+
+        // Webová služba/backend Component relationships
         RDFtoCSVWebApplication -> RDFtoCSVAPIController "provádí volání API" "HTTPS"
-        RDFtoCSVAPIController -> RDFtoCSVlibrary "Používá" 
+        RDFtoCSVAPIController -> RDFtoCSVlibrary "Posílá RDF soubor s parametry pro převod"
         RDFtoCSVlibrary -> RDFtoCSVAPIController "Posílá .zip po převodu dat" ""
+        RDFtoCSVAPIController -> input_processorComponent "Předává RDF soubor s parametry pro převod" ""
         input_processorComponent -> convertorComponent "Předává zpracovaná vstupní data"
         convertorComponent -> metadata_creatorComponent "Předává interní reprezentaci zpracovaných dat"
         metadata_creatorComponent ->  metadata_enricherComponent "Předává základní metadata"
@@ -88,7 +88,7 @@ workspace "RDFtoCSV" "Pracovní složka pro diagramy RDFtoCSV" {
             }
 
             // Relationships
-            WebApplicationDeployment -> beckendServerDeployment "Posílá požadavky na backend"
+            WebApplicationDeployment -> beckendServerDeployment "Posílá požadavky na webovou službu"
         }
     }
 
@@ -110,11 +110,13 @@ workspace "RDFtoCSV" "Pracovní složka pro diagramy RDFtoCSV" {
         }
 
         container RDFtoCSV "RDFtoCSVContainerDiagram" {
+        title "Kontejnerový diagram systému RDFtoCSV"
             include *
             autoLayout
         }
 
         component RDFtoCSVlibrary "RDFtoCSVlibraryComponentDiagram" {
+        title "Komponentový diagram systému RDFtoCSV"
             include *
             autoLayout
         }
