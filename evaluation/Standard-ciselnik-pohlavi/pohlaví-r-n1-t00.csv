@@ -1,0 +1,4 @@
+Subject,type,is in scheme,preferred label (cs),preferred label (en),notation
+https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/mužské,Concept,pohlaví,Mužské,Male,mužské
+https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví/položky/ženské,Concept,pohlaví,Ženské,Female,ženské
+https://data.mvcr.gov.cz/zdroj/číselníky/pohlaví,ConceptScheme,,Pohlaví,Sex,

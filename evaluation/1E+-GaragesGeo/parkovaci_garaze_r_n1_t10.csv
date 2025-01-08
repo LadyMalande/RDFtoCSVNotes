@@ -1,0 +1,238 @@
+Subject,areaid,enddataarea,rowID,member,startdataarea,usageid,areamanagerid,areadesc,type,location
+row-bmxf-a7q4-ch2j,202_ZHRS,29991231,row-bmxf-a7q4-ch2j,t5pc-eb34,20131107,GARAGEP,2449,Garage Ziekenhuis Rijnstate P1 (Arnhem),t5pc-eb34,119
+row-2rbv.p5ut~wnfb,363_P23,29991231,row-2rbv.p5ut~wnfb,t5pc-eb34,20131118,GARAGEP,2448,Garage Amsterdamse Poort P23 (Amsterdam),t5pc-eb34,45
+row-vas9~yxpc_h74g,772_HEUVEL,29991231,row-vas9~yxpc_h74g,t5pc-eb34,20130919,GARAGEP,2448,Garage Heuvel (Eindhoven),t5pc-eb34,50
+row-xzrh.zv2w.xa4g,141_SERF2,29991231,row-xzrh.zv2w.xa4g,t5pc-eb34,20130919,GARAGEP,141,P2 StadsErf (Almelo),t5pc-eb34,33
+row-pfz6.6udd~6akn,603_BOGP5,29991231,row-pfz6.6udd~6akn,t5pc-eb34,20140101,GARAGEP,2448,In de Bogaard P5 (Rijswijk),t5pc-eb34,160
+row-4r9k~hb74~24wd,785_HOVE,29991231,row-4r9k~hb74~24wd,t5pc-eb34,20131030,GARAGEP,2062,Garage De Hovel (Goirle),t5pc-eb34,53
+row-hn7g-wzqy.4zmm,518_HAVE,29991231,row-hn7g-wzqy.4zmm,t5pc-eb34,20131111,GARAGEP,2459,Garage Havenkwartier (Den Haag),t5pc-eb34,14
+row-e4dq-yxnu-sct8,518_PARK,29991231,row-e4dq-yxnu-sct8,t5pc-eb34,20131114,GARAGEP,2461,Garage Nieuwe Parklaan (Den Haag),t5pc-eb34,108
+row-y3tx~xt58.y7nx,344_LAVIE,29991231,row-y3tx~xt58.y7nx,t5pc-eb34,20140101,GARAGEP,2448,Garage LaVie (Utrecht),t5pc-eb34,156
+row-e7sc~69j9_7q6e,957_P5,29991231,row-e7sc~69j9_7q6e,t5pc-eb34,20140101,GARAGEP,2448,P5 Roercenter (Roermond),t5pc-eb34,0
+row-47bt.qiwg_w5u5,518_WIJN,29991231,row-47bt.qiwg_w5u5,t5pc-eb34,20140101,GARAGEP,2459,Garage Wijnhaven Centrum (Den Haag),t5pc-eb34,198
+row-sc5w.zagp-wtdm,599_ZUIDPL,29991231,row-sc5w.zagp-wtdm,t5pc-eb34,20140101,GARAGEP,2448,Zuidplein (Rotterdam),t5pc-eb34,164
+row-krwk.9cks.9tp2,345_ARIE,29991231,row-krwk.9cks.9tp2,t5pc-eb34,20131105,GARAGEP,2062,Garage Arie van Hensbergen (Veenendaal),t5pc-eb34,90
+row-5rj7_2iif~kiww,917_TELEP,29991231,row-5rj7_2iif~kiww,t5pc-eb34,20140101,GARAGEP,2448,Garage Teleparking (Heerlen),t5pc-eb34,170
+row-zei5.hpik_6j8u,772_BIJENK,29991231,row-zei5.hpik_6j8u,t5pc-eb34,20130919,GARAGEP,2448,Garage Bijenkorf (Eindhoven),t5pc-eb34,47
+row-wbkx.f5hw_bn64,599_ALE3,29991231,row-wbkx.f5hw_bn64,t5pc-eb34,20141118,GARAGEP,2448,Garage Alexandrium III Woonmall (Rotterdam),t5pc-eb34,84
+row-58tf-td73_q4r5,597_JORIS,29991231,row-58tf-td73_q4r5,t5pc-eb34,20150729,GARAGEP,2448,Garage Jorishof (Ridderkerk),t5pc-eb34,98
+row-vg8d-zeja-hjtw,518_LEY2,29991231,row-vg8d-zeja-hjtw,t5pc-eb34,20131030,GARAGEP,2062,Garage Leyweg 2 (Den Haag),t5pc-eb34,140
+row-k8x7_p8wu.p3zf,772_WIT,29991231,row-k8x7_p8wu.p3zf,t5pc-eb34,20131030,GARAGEP,2062,Garage De Witte Dame (Eindhoven),t5pc-eb34,107
+row-9k98.8xfh.m4j2,687_KOU,29991231,row-9k98.8xfh.m4j2,t5pc-eb34,20131010,GARAGEP,687,Garage Kousteensedijk (Middelburg),t5pc-eb34,89
+row-9mxb_64yb_sevu,518_LAAK,29991231,row-9mxb_64yb_sevu,t5pc-eb34,20131125,GARAGEP,2448,Garage Laakhaven (Den Haag),t5pc-eb34,71
+row-pvea-gcvi-k6n4,344_P2,29991231,row-pvea-gcvi-k6n4,t5pc-eb34,20131108,GARAGEP,2449,Garage Hoog Catharijne P2 (Utrecht),t5pc-eb34,41
+row-paiz~vbfq_myaw,363_P22,29991231,row-paiz~vbfq_myaw,t5pc-eb34,20131118,GARAGEP,2448,Garage Amsterdamse Poort P22 (Amsterdam),t5pc-eb34,132
+row-ds57~9bd4-4eic,344_P3,29991231,row-ds57~9bd4-4eic,t5pc-eb34,20131108,GARAGEP,2449,Garage P3 Radboud (Utrecht),t5pc-eb34,201
+row-7tx9_m33y~pbbb,268_DUK,29991231,row-7tx9_m33y~pbbb,t5pc-eb34,20131105,GARAGEP,2062,Garage Dukenburg (Nijmegen),t5pc-eb34,16
+row-hjch_5yxs~jsm8,193_MAAG,29991231,row-hjch_5yxs~jsm8,t5pc-eb34,20140101,GARAGEP,2448,Garage Maagjesbolwerk (Zwolle),t5pc-eb34,56
+row-rxrb_cqwe~2drc,553_MADE,29991231,row-rxrb_cqwe~2drc,t5pc-eb34,20131016,GARAGEP,553,Garage Madelief (Lisse),t5pc-eb34,58
+row-beck-acn4~rww5,356_ANTON,29991231,row-beck-acn4~rww5,t5pc-eb34,20140101,GARAGEP,2448,Sint Antonius Ziekenhuis (Nieuwegein),t5pc-eb34,146
+row-ia3v-gh95.j2gu,938_PROO,29991231,row-ia3v-gh95.j2gu,t5pc-eb34,20131010,GARAGEP,938,Garage Proosdijpark (Meerssen),t5pc-eb34,153
+row-4m8z-svgd-g3e9,200_ORAN,29991231,row-4m8z-svgd-g3e9,t5pc-eb34,20131122,GARAGEP,2448,Garage Oranjerie (Apeldoorn),t5pc-eb34,162
+row-anpj_xu5y-t7ad,363_WEST,29991231,row-anpj_xu5y-t7ad,t5pc-eb34,20131121,GARAGEP,2448,"""Garage Westergasfabriek, voorheen Westerpark (Amsterdam)""",t5pc-eb34,94
+row-jnvg-49rv_8e5d,106_KOLK,29991231,row-jnvg-49rv_8e5d,t5pc-eb34,20131107,GARAGEP,2449,Garage De Nieuwe Kolk (Assen),t5pc-eb34,230
+row-gt7j.q5b6_pgcz,362_SCHO,29991231,row-gt7j.q5b6_pgcz,t5pc-eb34,20131118,GARAGEP,2448,Garage Schouwburg (Amstelveen),t5pc-eb34,74
+row-uwvf~7bqr_ztgb,363_HOOFD,29991231,row-uwvf~7bqr_ztgb,t5pc-eb34,20150101,GARAGEP,2093,Parking de Hoofdstad (Amsterdam),t5pc-eb34,177
+row-yym5_rztg~eyp3,52_ROND,29991231,row-yym5_rztg~eyp3,t5pc-eb34,20131108,GARAGEP,2449,Garage Het Rond (Winschoten),t5pc-eb34,216
+row-w8g4-irw6.2upj,141_OBORGH,29991231,row-w8g4-irw6.2upj,t5pc-eb34,20130919,GARAGEP,141,P5 Oosterborgh (Almelo),t5pc-eb34,28
+row-zpj2.9ssd-sizc,307_BEES,29991231,row-zpj2.9ssd-sizc,t5pc-eb34,20131118,GARAGEP,2448,Garage Beestenmarkt (Amersfoort),t5pc-eb34,226
+row-hxwj_pnj3-aixy,1684_MAA,29991231,row-hxwj_pnj3-aixy,t5pc-eb34,20131004,GARAGEP,1684,Garage Maasburg,t5pc-eb34,69
+row-ud8a~fkir-aug8,106_TRIA,29991231,row-ud8a~fkir-aug8,t5pc-eb34,20131107,GARAGEP,2449,Garage Triade (Assen),t5pc-eb34,91
+row-tdr6-nf27-5bzw,935_BONNEF,29991231,row-tdr6-nf27-5bzw,t5pc-eb34,20140101,GARAGEP,2448,Garage Bonnefantenmuseum (Maastricht),t5pc-eb34,171
+row-svgu_sgzi~dvg4,106_MERC,29991231,row-svgu_sgzi~dvg4,t5pc-eb34,20131107,GARAGEP,2449,Garage Mercurius (Assen),t5pc-eb34,88
+row-imyq_yxiy-xytx,603_BOGP6,29991231,row-imyq_yxiy-xytx,t5pc-eb34,20140101,GARAGEP,2448,In de Bogaard P6 (Rijswijk),t5pc-eb34,155
+row-5jp3.acxb.x4ua,622_STAD,29991231,row-5jp3.acxb.x4ua,t5pc-eb34,20131114,GARAGEP,2461,Garage Stadhuis (Vlaardingen),t5pc-eb34,209
+row-cqpi~rmha_kevu,599_HART,29991231,row-cqpi~rmha_kevu,t5pc-eb34,20141118,GARAGEP,2448,Garage Hart van Zuid (Rotterdam),t5pc-eb34,38
+row-mwwc_m78i.mz7z,1674_NWM,29991231,row-mwwc_m78i.mz7z,t5pc-eb34,20131009,GARAGEP,1674,Garage Nieuwe Markt (Roosendaal),t5pc-eb34,122
+row-syxx~5772-f6es,363_MAHL,29991231,row-syxx~5772-f6es,t5pc-eb34,20150204,GARAGEP,2448,Garage Mahler (Amsterdam),t5pc-eb34,129
+row-hgm4.j6nq~9s3w,153_CENT,29991231,row-hgm4.j6nq~9s3w,t5pc-eb34,20131128,GARAGEP,2448,Garage Centrum (Enschede),t5pc-eb34,178
+row-kkmx-pped~6in3,479_ROZEN,29991231,row-kkmx-pped~6in3,t5pc-eb34,20140101,GARAGEP,2448,Rozenhof (Zaanstad),t5pc-eb34,42
+row-pg44~7zxv_773q,957_P10,29991231,row-pg44~7zxv_773q,t5pc-eb34,20140101,GARAGEP,2448,Garage P10 Oranjerie (Roermond),t5pc-eb34,141
+row-22ax_xzw9-33cm,202_BROE,29991231,row-22ax_xzw9-33cm,t5pc-eb34,20131122,GARAGEP,2448,Garage Broerenstraat (Arnhem),t5pc-eb34,147
+row-rjzj~qwrg-r7e8,576_VICT,29991231,row-rjzj~qwrg-r7e8,t5pc-eb34,20131107,GARAGEP,2449,Garage Victoriberg (Noordwijkerhout),t5pc-eb34,24
+row-c84y.9sz6_abr9,14_MUSEUM,29991231,row-c84y.9sz6_abr9,t5pc-eb34,20130916,GARAGEP,2448,Garage Museum Centrum (Groningen),t5pc-eb34,62
+row-scdb.hqyd.692s,363_ORAN,29991231,row-scdb.hqyd.692s,t5pc-eb34,20131121,GARAGEP,2448,Garage Oranjekwartier (Amsterdam),t5pc-eb34,68
+row-w66s-bdsv~p682,363_FLOW,29991231,row-w66s-bdsv~p682,t5pc-eb34,20131111,GARAGEP,2459,Garage Flowparking (Amsterdam),t5pc-eb34,40
+row-fqtw.z2p6_zeed,518_GRMA,29991231,row-fqtw.z2p6_zeed,t5pc-eb34,20131125,GARAGEP,2448,Garage Grote Markt (Den Haag),t5pc-eb34,151
+row-yfdn.fp32~k5qu,394_SPAAR,29991231,row-yfdn.fp32~k5qu,t5pc-eb34,20140101,GARAGEP,2448,Garage Spaarne Ziekenhuis (Hoofddorp),t5pc-eb34,219
+row-mb4n-4s9h-3dtd,307_STJO,29991231,row-mb4n-4s9h-3dtd,t5pc-eb34,20131118,GARAGEP,2448,Garage St. Jorisplein (Amersfoort),t5pc-eb34,43
+row-5qxb_y5ri-wn22,599_WEST,29991231,row-5qxb_y5ri-wn22,t5pc-eb34,20131112,GARAGEP,2459,Garage Westblaak (Rotterdam),t5pc-eb34,210
+row-cwna.e3dk.cxm4,518_TORE,29991231,row-cwna.e3dk.cxm4,t5pc-eb34,20131126,GARAGEP,2448,Garage Torengarage (Den Haag),t5pc-eb34,131
+row-z44z_6hf5-wbfv,363_P2,29991231,row-z44z_6hf5-wbfv,t5pc-eb34,20150101,GARAGEP,2092,Garage AMC P2 (Amsterdam),t5pc-eb34,17
+row-p2mw-jt6r.jhq5,518_BAD,29991231,row-p2mw-jt6r.jhq5,t5pc-eb34,20131114,GARAGEP,2461,Garage Strand (Den Haag),t5pc-eb34,100
+row-dtah~6dnn~ddzs,363_BANK,29991231,row-dtah~6dnn~ddzs,t5pc-eb34,20131112,GARAGEP,2460,Garage The Bank (Amsterdam),t5pc-eb34,83
+row-u5r5-cww8~6pgm,664_STAD,29991231,row-u5r5-cww8~6pgm,t5pc-eb34,20131009,GARAGEP,664,Parkeergarage Stadspoort (Goes),t5pc-eb34,35
+row-se7v.da8b-jcpp,599_HART,29991231,row-se7v.da8b-jcpp,t5pc-eb34,20131112,GARAGEP,2459,Garage Hart van IJsselmonde (Rotterdam),t5pc-eb34,168
+row-qpxb~53vt-g9w2,345_PASS,29991231,row-qpxb~53vt-g9w2,t5pc-eb34,20140101,GARAGEP,2448,Parkeergarage Passage (Veenendaal),t5pc-eb34,78
+row-97pg_ayvb.yhcf,14_CENTRUM,29991231,row-97pg_ayvb.yhcf,t5pc-eb34,20130916,GARAGEP,2449,Garage Centrum (Groningen),t5pc-eb34,26
+row-rzct_iyrw.grz9,106_DOEV,29991231,row-rzct_iyrw.grz9,t5pc-eb34,20131107,GARAGEP,2449,Garage Doevenkamp (Assen),t5pc-eb34,48
+row-gp2p-g4pt-tfmc,518_LUTH,29991231,row-gp2p-g4pt-tfmc,t5pc-eb34,20131126,GARAGEP,2448,Garage Lutherse Burgwal (Den Haag),t5pc-eb34,175
+row-hmcv-qkun-hfvm,856_BRAPL,29991231,row-hmcv-qkun-hfvm,t5pc-eb34,20131008,GARAGEP,856,Parkeergarage Brabantplein (Uden),t5pc-eb34,117
+row-rdgz-pi4b-iyie,664_WESTW,29991231,row-rdgz-pi4b-iyie,t5pc-eb34,20130918,GARAGEP,664,Parkeergarage Centrum (Goes),t5pc-eb34,36
+row-jygh-bjiz-5s7g,546_LAM,29991231,row-jygh-bjiz-5s7g,t5pc-eb34,20131112,GARAGEP,2460,Garage Lammenschans (Leiden),t5pc-eb34,195
+row-r5zi~wpa7~z5wu,363_GEEL,29991231,row-r5zi~wpa7~z5wu,t5pc-eb34,20131111,GARAGEP,2459,Garage Geelvinck (Amsterdam),t5pc-eb34,207
+row-dqt6~6ec9_f6vh,518_ZEEH,29991231,row-dqt6~6ec9_f6vh,t5pc-eb34,20150223,GARAGEP,2487,Garage De Zeeheld (Den Haag),t5pc-eb34,150
+row-quiu.dw2s_ah3g,362_HAND,29991231,row-quiu.dw2s_ah3g,t5pc-eb34,20131118,GARAGEP,2448,Garage Handelsplein (Amstelveen),t5pc-eb34,227
+row-yums.hebh~2tgg,796_JBZG,29991231,row-yums.hebh~2tgg,t5pc-eb34,20131114,GARAGEP,2462,Garage Jeroen Bosch Ziekenhuis ('s-Hertogenbosch),t5pc-eb34,4
+row-9em4-npu3.vdyx,1916_CORB,29991231,row-9em4-npu3.vdyx,t5pc-eb34,20131009,GARAGEP,1916,Garage Corbulo (Leidschendam-Voorburg),t5pc-eb34,152
+row-7qnq.hihx_67ae,228_MARK,29991231,row-7qnq.hihx_67ae,t5pc-eb34,20131128,GARAGEP,2448,Garage Markt (Ede),t5pc-eb34,82
+row-jtdp-cfkc-ka2q,518_LEY1,29991231,row-jtdp-cfkc-ka2q,t5pc-eb34,20131030,GARAGEP,2062,Garage Leyweg 1 (Den Haag),t5pc-eb34,236
+row-w5v4.sri7.jxw5,505_DRIE,29991231,row-w5v4.sri7.jxw5,t5pc-eb34,20131030,GARAGEP,2062,Garage Drievriendenhof / Dordrecht Centre (Dordrecht),t5pc-eb34,21
+row-zbj9.3yg5~ns54,935_VROUW,29991231,row-zbj9.3yg5~ns54,t5pc-eb34,20140101,GARAGEP,2448,Garage O.L. Vrouweparking (Maastricht),t5pc-eb34,157
+row-55y5-k7ce_8kfk,547_RIJNL,29991231,row-55y5-k7ce_8kfk,t5pc-eb34,20140101,GARAGEP,2448,Garage P3 Rijnland Vierzicht (Leiderdorp),t5pc-eb34,85
+row-u6mg-2adh-gqvm,363_HEIN,29991231,row-u6mg-2adh-gqvm,t5pc-eb34,20131111,GARAGEP,2459,Garage Heinekenplein (Amsterdam),t5pc-eb34,233
+row-prqg-p7mt_f7v9,363_EURO,29991231,row-prqg-p7mt_f7v9,t5pc-eb34,20131121,GARAGEP,2448,Garage Eurocenter (Amsterdam),t5pc-eb34,235
+row-2gpt~i67v_ctwr,518_HELI,29991231,row-2gpt~i67v_ctwr,t5pc-eb34,20131125,GARAGEP,2448,Garage Helicon (Den Haag),t5pc-eb34,232
+row-vgay_x9yy-sv8g,553_BLOK,29991231,row-vgay_x9yy-sv8g,t5pc-eb34,20131016,GARAGEP,553,Garage Blokhuis (Lisse),t5pc-eb34,166
+row-r29u~uwqy~7em7,479_HERM,29991231,row-r29u~uwqy~7em7,t5pc-eb34,20140101,GARAGEP,2448,Hermitage (Zaanstad),t5pc-eb34,59
+row-enxn.u8p4_wmgb,599_ROT,29991231,row-enxn.u8p4_wmgb,t5pc-eb34,20140101,GARAGEP,2448,De Rotterdam (Rotterdam),t5pc-eb34,167
+row-u6v7-qraq~g5pe,917_RAAD,29991231,row-u6v7-qraq~g5pe,t5pc-eb34,20140101,GARAGEP,2448,Raadhuisparking (Heerlen),t5pc-eb34,174
+row-eev8_j88x.hgxt,597_RIDDER,29991231,row-eev8_j88x.hgxt,t5pc-eb34,20140101,GARAGEP,2448,Garage Ridderhof (Ridderkerk),t5pc-eb34,130
+row-gpqh.mzjx.7uvk,599_KOOP,29991231,row-gpqh.mzjx.7uvk,t5pc-eb34,20141118,GARAGEP,2448,Garage Koopgoot (Rotterdam),t5pc-eb34,165
+row-8ed2_z547.7bas,363_OOST,29991231,row-8ed2_z547.7bas,t5pc-eb34,20150730,GARAGEP,2448,Garage Oostpoort (Amsterdam),t5pc-eb34,221
+row-hgh3_78bi.ch7a,363_WLPL,29991231,row-hgh3_78bi.ch7a,t5pc-eb34,20131112,GARAGEP,2460,Garage Waterlooplein (Amsterdam),t5pc-eb34,172
+row-pjpu-6bz7.phgy,363_LOODS,29991231,row-pjpu-6bz7.phgy,t5pc-eb34,20150101,GARAGEP,2459,Garage De Loodsen (Amsterdam),t5pc-eb34,135
+row-gadz~7ap6-h9e9,603_BOGP7,29991231,row-gadz~7ap6-h9e9,t5pc-eb34,20140101,GARAGEP,2448,In de Bogaard P7 (Rijswijk),t5pc-eb34,234
+row-6788.i2aj-ys6d,363_MUSE,29991231,row-6788.i2aj-ys6d,t5pc-eb34,20131122,GARAGEP,2448,Garage Museumplein (Amsterdam),t5pc-eb34,106
+row-6kc4_7fsd~ng42,147_BIJE,29991231,row-6kc4_7fsd~ng42,t5pc-eb34,20130927,GARAGEP,147,Garage De Bijenkorf (Borne),t5pc-eb34,193
+row-kaqz.b9nw_vs4n,622_HOOG,29991231,row-kaqz.b9nw_vs4n,t5pc-eb34,20131114,GARAGEP,2461,Garage Hoogstraat (Vlaardingen),t5pc-eb34,55
+row-e5u2.984i.xpa9,518_VEER,29991231,row-e5u2.984i.xpa9,t5pc-eb34,20131126,GARAGEP,2448,Garage Veerkaden (Den Haag),t5pc-eb34,183
+row-sbfd-mjyf.faqr,518_CITY,29991231,row-sbfd-mjyf.faqr,t5pc-eb34,20131125,GARAGEP,2448,Garage City Parking (Den Haag),t5pc-eb34,37
+row-j25g_gg8j~u7yx,363_P24,29991231,row-j25g_gg8j~u7yx,t5pc-eb34,20131121,GARAGEP,2448,Garage Amsterdamse Poort P24 (Amsterdam),t5pc-eb34,75
+row-96wt-sb27.2emp,344_P4,29991231,row-96wt-sb27.2emp,t5pc-eb34,20131108,GARAGEP,2449,Garage P4 Stationsstraat (Utrecht),t5pc-eb34,115
+row-rpgs~68ps.pcxd,301_GELRE,29991231,row-rpgs~68ps.pcxd,t5pc-eb34,20140101,GARAGEP,2448,Gelre Ziekenhuizen (Zutphen),t5pc-eb34,158
+row-n7f8.8c3z.bxbd,983_MAASB,29991231,row-n7f8.8c3z.bxbd,t5pc-eb34,20140101,GARAGEP,2448,Centrum Maasboulevard (Venlo),t5pc-eb34,197
+row-jupk-yjsc~4bgg,796_AREN,29991231,row-jupk-yjsc~4bgg,t5pc-eb34,20131126,GARAGEP,2448,Garage Arena ('s-Hertogenbosch),t5pc-eb34,7
+row-niav.5dqc.j8ih,1674_ROSE,29991231,row-niav.5dqc.j8ih,t5pc-eb34,20131009,GARAGEP,1674,Garage Roselaar (Roosendaal),t5pc-eb34,86
+row-uxxv.xezq~y7df,363_SYMP,29991231,row-uxxv.xezq~y7df,t5pc-eb34,20131122,GARAGEP,2448,Garage Symphony (Amsterdam),t5pc-eb34,70
+row-8kv2-rs82.5u8k,637_FRLN,29991231,row-8kv2-rs82.5u8k,t5pc-eb34,20131106,GARAGEP,2062,Garage Frankrijklaan (Zoetermeer),t5pc-eb34,61
+row-qaea_6f98-p53f,935_COLON,29991231,row-qaea_6f98-p53f,t5pc-eb34,20140101,GARAGEP,2448,Garage De Colonel (Maastricht),t5pc-eb34,64
+row-6csr-7c74-q6t5,599_WEENA,29991231,row-6csr-7c74-q6t5,t5pc-eb34,20140101,GARAGEP,2448,Weena (Rotterdam),t5pc-eb34,138
+row-ax8t~vy6f~ekpc,193_CENTR,29991231,row-ax8t~vy6f~ekpc,t5pc-eb34,20140101,GARAGEP,2448,Garage Centrum (Zwolle),t5pc-eb34,231
+row-as7j-u6th.5qt5,518_LEID,29991231,row-as7j-u6th.5qt5,t5pc-eb34,20131107,GARAGEP,2449,Garage Leidschenhof (Den Haag),t5pc-eb34,137
+row-vs4a_en2r~8pvd,606_NWPA,29991231,row-vs4a_en2r~8pvd,t5pc-eb34,20141113,GARAGEP,2479,Garage Nieuwe Passage (Schiedam),t5pc-eb34,95
+row-8pan~g82y_nyfp,758_CENT,29991231,row-8pan~g82y_nyfp,t5pc-eb34,20131125,GARAGEP,2448,Garage Centrum (Breda),t5pc-eb34,27
+row-6k5s~4ecd_3gxn,14_OSSENM,29991231,row-6k5s~4ecd_3gxn,t5pc-eb34,20130916,GARAGEP,2448,Garage Ossenmarkt (Groningen),t5pc-eb34,92
+row-wmfx-z8jb-s84d,141_HDEK,29991231,row-wmfx-z8jb-s84d,t5pc-eb34,20130919,GARAGEP,141,P14 StadsHaven (Almelo),t5pc-eb34,31
+row-ghc9~b6mr-x7zr,935_NOORD,29991231,row-ghc9~b6mr-x7zr,t5pc-eb34,20140101,GARAGEP,2448,Winkelcentrum Noorderbrug (Maastricht),t5pc-eb34,218
+row-4s9c_892g-97if,228_ACHT,29991231,row-4s9c_892g-97if,t5pc-eb34,20131128,GARAGEP,2448,Garage Achterdoelen (Ede),t5pc-eb34,208
+row-8vmu.xvcj~mzu6,603_BOGP4,29991231,row-8vmu.xvcj~mzu6,t5pc-eb34,20140101,GARAGEP,2448,In de Bogaard P4 (Rijswijk),t5pc-eb34,123
+row-yg5g.3tz8.m2x9,794_ELZA,29991231,row-yg5g.3tz8.m2x9,t5pc-eb34,20141117,GARAGEP,2480,Garage Elzas (Helmond),t5pc-eb34,161
+row-bn64.6szm-5hqm,505_VISS,29991231,row-bn64.6szm-5hqm,t5pc-eb34,20131111,GARAGEP,2459,Garage Visstraat (Dordrecht),t5pc-eb34,10
+row-cbyu_pkmj_sevy,518_MALI,29991231,row-cbyu_pkmj_sevy,t5pc-eb34,20131111,GARAGEP,2459,Garage Malieveld (Den Haag),t5pc-eb34,144
+row-krqr_s8cw_yi4d,173_DRIE,29991231,row-krqr_s8cw_yi4d,t5pc-eb34,20131112,GARAGEP,2459,Garage De Driehoek (Oldenzaal),t5pc-eb34,148
+row-hmkx-3hrg_4dkn,518_MUZE,29991231,row-hmkx-3hrg_4dkn,t5pc-eb34,20131126,GARAGEP,2448,Garage Muzenplein (Den Haag),t5pc-eb34,202
+row-uvm6~525i_6qia,772_KENN,29991231,row-uvm6~525i_6qia,t5pc-eb34,20130919,GARAGEP,2062,Garage Kennedy Business Center (Eindhoven),t5pc-eb34,188
+row-r88e_axeb~xhhd,935_MOSAE,29991231,row-r88e_axeb~xhhd,t5pc-eb34,20140101,GARAGEP,2448,Garage Mosae Forum (Maastricht),t5pc-eb34,15
+row-a5ed_v2jp-9jmz,687_GEER,29991231,row-a5ed_v2jp-9jmz,t5pc-eb34,20131010,GARAGEP,687,Garage De Geere (Middelburg),t5pc-eb34,103
+row-2bk4~eu48.5ej7,141_STADPL,29991231,row-2bk4~eu48.5ej7,t5pc-eb34,20130919,GARAGEP,141,P9 StadsBaken (Almelo),t5pc-eb34,32
+row-uqtu~wg8a_tmjv,984_GOUD,29991231,row-uqtu~wg8a_tmjv,t5pc-eb34,20141024,GARAGEP,2062,Garage Gouden Leeuw (Venray),t5pc-eb34,99
+row-77gr-zcvx~p2j6,163_NIJV,29991231,row-77gr-zcvx~p2j6,t5pc-eb34,20160212,GARAGEP,163,"""Garage Henri Dunant, Nijverdal (Hellendoorn)""",t5pc-eb34,8
+row-7jk8.naqr~dqqe,513_BOLW,29991231,row-7jk8.naqr~dqqe,t5pc-eb34,20130918,GARAGEP,2448,Garage Bolwerk (Gouda),t5pc-eb34,112
+row-kd63_4bwi-k9i4,599_IKAZIA,29991231,row-kd63_4bwi-k9i4,t5pc-eb34,20140101,GARAGEP,2448,Ikazia (Ziekenhuis) (Rotterdam),t5pc-eb34,134
+row-n8rx-5xt8-uf2j,363_ANTA,29991231,row-n8rx-5xt8-uf2j,t5pc-eb34,20131111,GARAGEP,2459,Garage Antarctica (Amsterdam),t5pc-eb34,196
+row-k8h2_vxbk_yuen,345_CORR,29991231,row-k8h2_vxbk_yuen,t5pc-eb34,20140101,GARAGEP,2448,Parkeergarage Corrider (Veenendaal),t5pc-eb34,190
+row-jzwc.7572_pych,599_LIJN,29991231,row-jzwc.7572_pych,t5pc-eb34,20131108,GARAGEP,2449,Garage Lijnbaan (Rotterdam),t5pc-eb34,203
+row-fmik_4p5f_i9ti,603_BOGP2,29991231,row-fmik_4p5f_i9ti,t5pc-eb34,20140101,GARAGEP,2448,In de Bogaard P2 (Rijswijk),t5pc-eb34,111
+row-7ujs-zsbn~rkrz,917_LOON,29991231,row-7ujs-zsbn~rkrz,t5pc-eb34,20140101,GARAGEP,2448,Garage 't Loon (Heerlen),t5pc-eb34,65
+row-cimr_dsrg~nc6a,603_BOGP3,29991231,row-cimr_dsrg~nc6a,t5pc-eb34,20140101,GARAGEP,2448,In de Bogaard P3 (Rijswijk),t5pc-eb34,44
+row-fxi4.tsq7_kwc9,935_BRUSS,29991231,row-fxi4.tsq7_kwc9,t5pc-eb34,20140101,GARAGEP,2448,Brusselse Poort (Maastricht),t5pc-eb34,225
+row-289c.ucqz~wfsk,772_CENTRU,29991231,row-289c.ucqz~wfsk,t5pc-eb34,20130919,GARAGEP,2448,Garage Centrum - De Admirant (Eindhoven),t5pc-eb34,125
+row-azaz.n2va~y8vu,344_P6,29991231,row-azaz.n2va~y8vu,t5pc-eb34,20131108,GARAGEP,2449,Garage P6 Rijnkade (Utrecht),t5pc-eb34,142
+row-hcut.spgs.3433,518_NEWB,29991231,row-hcut.spgs.3433,t5pc-eb34,20131125,GARAGEP,2448,Garage CS New Babylon (Den Haag),t5pc-eb34,97
+row-6tb6-t5ih.drur,363_IJDO,29991231,row-6tb6-t5ih.drur,t5pc-eb34,20140901,GARAGEP,2449,Garage IJDock (Amsterdam),t5pc-eb34,206
+row-udzc_dzuk.x4cs,599_MAAS,29991231,row-udzc_dzuk.x4cs,t5pc-eb34,20140101,GARAGEP,2448,Maastoren (Rotterdam),t5pc-eb34,13
+row-xr4k-h2hb~rfz4,748_ACHT,29991231,row-xr4k-h2hb~rfz4,t5pc-eb34,20131022,GARAGEP,748,Garage Achter de Grote Markt (Bergen op Zoom),t5pc-eb34,3
+row-vrks~89km.p2m3,917_KLOMP,29991231,row-vrks~89km.p2m3,t5pc-eb34,20140101,GARAGEP,2448,Garage De Klomp (Heerlen),t5pc-eb34,133
+row-uxaa~ntuh-suui,599_SCHIE,29991231,row-uxaa~ntuh-suui,t5pc-eb34,20140101,GARAGEP,2448,Schiecentrale (Rotterdam),t5pc-eb34,187
+row-fvxj~h3t4.4cna,584_VEIL,29991231,row-fvxj~h3t4.4cna,t5pc-eb34,20131105,GARAGEP,2062,Garage De Veiling (Oud-Beijerland),t5pc-eb34,19
+row-wsw7-efhf~ncws,518_HAMA,29991231,row-wsw7-efhf~ncws,t5pc-eb34,20131125,GARAGEP,2448,Garage Haagse Markt (Den Haag),t5pc-eb34,51
+row-2eue_ec39-d64k,398_MIDW,29991231,row-2eue_ec39-d64k,t5pc-eb34,20131107,GARAGEP,2449,Garage Middenweg (Heerhugowaard),t5pc-eb34,191
+row-7qip~m4vd.epv4,363_PAUL,29991231,row-7qip~m4vd.epv4,t5pc-eb34,20141215,GARAGEP,2448,Garage Museumplein Bus (Amsterdam),t5pc-eb34,118
+row-yu2q.mmuz.awbd,772_HOOG,29991231,row-yu2q.mmuz.awbd,t5pc-eb34,20131030,GARAGEP,2062,Garage Hooghuis (Eindhoven),t5pc-eb34,182
+row-hb9b.4rvb~cchr,917_MUZEN,29991231,row-hb9b.4rvb~cchr,t5pc-eb34,20140101,GARAGEP,2448,Garage Theather Heerlen Parking (Heerlen),t5pc-eb34,163
+row-e7cz.wtcp-ftr2,14_BIOSP,29991231,row-e7cz.wtcp-ftr2,t5pc-eb34,20130916,GARAGEP,2449,Garage Biosparking (Groningen),t5pc-eb34,186
+row-uxvr_8awy~x3sz,762_WOLF,29991231,row-uxvr_8awy~x3sz,t5pc-eb34,20131112,GARAGEP,2460,Garage Wolfsberg (Deurne),t5pc-eb34,229
+row-326w~kx48_yz3y,398_STAD,29991231,row-326w~kx48_yz3y,t5pc-eb34,20131107,GARAGEP,2449,Garage Stadsplein (Heerhugowaard),t5pc-eb34,217
+row-5nm9_9z7t_nstt,518_KUR,29991231,row-5nm9_9z7t_nstt,t5pc-eb34,20131114,GARAGEP,2461,Garage Kurhaus (Den Haag),t5pc-eb34,109
+row-zjf2.ermz-tevq,345_TRIC,29991231,row-zjf2.ermz-tevq,t5pc-eb34,20140101,GARAGEP,2062,Garage Tricotage (Veenendaal),t5pc-eb34,126
+row-wf5t~ktf3-w7yv,402_SILVER,29991231,row-wf5t~ktf3-w7yv,t5pc-eb34,20140101,GARAGEP,2448,"""Garage Markt, voorheen Silverpoint (Hilversum)""",t5pc-eb34,9
+row-6evj~dgb4.b54m,518_MAUR,29991231,row-6evj~dgb4.b54m,t5pc-eb34,20131112,GARAGEP,2460,Garage Mauritskade (Den Haag),t5pc-eb34,211
+row-jvni~qndn_yssq,546_LEVE,29991231,row-jvni~qndn_yssq,t5pc-eb34,20131112,GARAGEP,2460,Garage Level (Leiden),t5pc-eb34,212
+row-dhvi~rhdw~xtdn,546_BREE,29991231,row-dhvi~rhdw~xtdn,t5pc-eb34,20131105,GARAGEP,2062,Garage Breestraat (Leiden),t5pc-eb34,185
+row-j77w-hxwy-3dg7,599_ZORG,29991231,row-j77w-hxwy-3dg7,t5pc-eb34,20150730,GARAGEP,2448,Garage Zorgboulevard (Rotterdam),t5pc-eb34,77
+row-d5rz~zx5z_9xv8,344_SPRI,29991231,row-d5rz~zx5z_9xv8,t5pc-eb34,20131108,GARAGEP,2449,Garage Springweg (Utrecht),t5pc-eb34,127
+row-r2h8~jft3~kdg7,307_ASCH,29991231,row-r2h8~jft3~kdg7,t5pc-eb34,20150827,GARAGEP,2062,Garage Asch van Wijckstraat (Amersfoort),t5pc-eb34,79
+row-wesa.8fh5_izhj,141_SERF3,29991231,row-wesa.8fh5_izhj,t5pc-eb34,20130919,GARAGEP,141,P3 StadsErf (Almelo),t5pc-eb34,25
+row-9kav.ry5j_ehry,935_PLEIN,29991231,row-9kav.ry5j_ehry,t5pc-eb34,20140101,GARAGEP,2448,Garage Plein 1992 (Maastricht),t5pc-eb34,60
+row-9gmn-ipdu~68xf,200_MUSE,29991231,row-9gmn-ipdu~68xf,t5pc-eb34,20131122,GARAGEP,2448,Garage Museum Centrum (Apeldoorn),t5pc-eb34,6
+row-8h84~d3y7-m5me,394_VIER,29991231,row-8h84~d3y7-m5me,t5pc-eb34,20131107,GARAGEP,2449,Garage Vier Meren (Haarlemmermeer),t5pc-eb34,224
+row-4ymm_22u4.q2vi,164_BRINK,29991231,row-4ymm_22u4.q2vi,t5pc-eb34,20140101,GARAGEP,2448,De Brink (Hengelo),t5pc-eb34,63
+row-hvrt-4pbv_3kgp,599_RED,29991231,row-hvrt-4pbv_3kgp,t5pc-eb34,20131108,GARAGEP,2449,Garage The Red Apple Parkeerkelder (Rotterdam),t5pc-eb34,87
+row-u4qf_k84v.im24,687_HOUT,29991231,row-u4qf_k84v.im24,t5pc-eb34,20131010,GARAGEP,687,Garage Achter de Houttuinen (Middelburg),t5pc-eb34,136
+row-g4m7~a6ah~p8zn,796_TOL,29991231,row-g4m7~a6ah~p8zn,t5pc-eb34,20131126,GARAGEP,2448,Garage Tolbrug ('s-Hertogenbosch),t5pc-eb34,139
+row-bvcm_idam-t4v5,14_WESTERH,29991231,row-bvcm_idam-t4v5,t5pc-eb34,20130916,GARAGEP,2448,Garage Westerhaven (Groningen),t5pc-eb34,149
+row-94zb~r266~fw4u,398_ZUID,29991231,row-94zb~r266~fw4u,t5pc-eb34,20131107,GARAGEP,2449,Garage Zuidtangent (Heerhugowaard),t5pc-eb34,11
+row-y4vu_d7u7.vgh4,1742_HGN,29991231,row-y4vu_d7u7.vgh4,t5pc-eb34,20131009,GARAGEP,1742,Garage De Hagen (Rijssen),t5pc-eb34,145
+row-neji.7657_c48a,141_SERF1,29991231,row-neji.7657_c48a,t5pc-eb34,20130919,GARAGEP,141,P1 StadsErf (Almelo),t5pc-eb34,30
+row-vdmq.fcts-z5pn,622_LIES,29991231,row-vdmq.fcts-z5pn,t5pc-eb34,20131114,GARAGEP,2461,Garage Liesveld (Vlaardingen),t5pc-eb34,104
+row-tyzq-z27j~z8np,363_IJOE,29991231,row-tyzq-z27j~z8np,t5pc-eb34,20150730,GARAGEP,2448,Garage IJ-oever Centrum (Amsterdam),t5pc-eb34,49
+row-qav7~ub25-f5b9,362_STAD,29991231,row-qav7~ub25-f5b9,t5pc-eb34,20131118,GARAGEP,2448,Garage Stadsplein (Amstelveen),t5pc-eb34,102
+row-v6kd~mpwn_jfte,363_PRINS,29991231,row-v6kd~mpwn_jfte,t5pc-eb34,20150101,GARAGEP,2459,Garage Prins & Keizer (Amsterdam),t5pc-eb34,121
+row-kx6f~ikfm~kjz4,599_BIJE,29991231,row-kx6f~ikfm~kjz4,t5pc-eb34,20141118,GARAGEP,2448,Garage De Bijenkorf (Rotterdam),t5pc-eb34,179
+row-bwka.gxbb_sjq2,687_KANA,29991231,row-bwka.gxbb_sjq2,t5pc-eb34,20131010,GARAGEP,687,Garage Kanaalweg (Middelburg),t5pc-eb34,213
+row-d6n8-qdym-anba,518_NOOR,29991231,row-d6n8-qdym-anba,t5pc-eb34,20131111,GARAGEP,2459,Garage Noordeinde (Den Haag),t5pc-eb34,57
+row-9a7z-qi4x.yf59,307_MEAN,29991231,row-9a7z-qi4x.yf59,t5pc-eb34,20150101,GARAGEP,2091,Garage Meander Medisch Centrum (Amersfoort),t5pc-eb34,22
+row-n456_twrz_g4fh,344_GALG,29991231,row-n456_twrz_g4fh,t5pc-eb34,20140101,GARAGEP,2448,Garage Galgenwaard (Utrecht),t5pc-eb34,180
+row-pbnx.9cd5-c576,361_GROTE,29991231,row-pbnx.9cd5-c576,t5pc-eb34,20150101,GARAGEP,2459,Garage Grote Kerk (Alkmaar),t5pc-eb34,110
+row-9i5k_5qb2-zii9,439_EGG,29991231,row-9i5k_5qb2-zii9,t5pc-eb34,20140101,GARAGEP,2448,Garage Eggert (Purmerend),t5pc-eb34,20
+row-zk82_agnw.39zs,748_PARA,29991231,row-zk82_agnw.39zs,t5pc-eb34,20131022,GARAGEP,748,Garage De Parade (Bergen op Zoom),t5pc-eb34,2
+row-q4ty_dynv_pyng,935_VRIJT,29991231,row-q4ty_dynv_pyng,t5pc-eb34,20140101,GARAGEP,2448,Garage Vrijthof (Maastricht),t5pc-eb34,189
+row-mp4p~2x2q-m2ar,597_KOPL,29991231,row-mp4p~2x2q-m2ar,t5pc-eb34,20131107,GARAGEP,2449,Garage Koningsplein (Ridderkerk),t5pc-eb34,154
+row-g9yi~pmiw.x2dj,772_GRIJ,29991231,row-g9yi~pmiw.x2dj,t5pc-eb34,20131030,GARAGEP,2062,Garage De Grijze Generaal (Eindhoven),t5pc-eb34,81
+row-5czw_rekk_ddrh,363_BYZA,29991231,row-5czw_rekk_ddrh,t5pc-eb34,20131122,GARAGEP,2448,Garage Byzantium (Amsterdam),t5pc-eb34,228
+row-ndb7_mczp~dk7h,513_NWMAR,29991231,row-ndb7_mczp~dk7h,t5pc-eb34,20130918,GARAGEP,2448,Garage Nieuwe Markt (Gouda),t5pc-eb34,76
+row-iw8k_6uus~zkbj,917_PUT,29991231,row-iw8k_6uus~zkbj,t5pc-eb34,20140101,GARAGEP,2448,Garage Putgraaf (Heerlen),t5pc-eb34,222
+row-uv7x-856b-46k5,518_LVGA,29991231,row-uv7x-856b-46k5,t5pc-eb34,20131107,GARAGEP,2449,Garage Station Leidschenveen Garage (Den Haag),t5pc-eb34,214
+row-zawq~5smg.xg4j,599_KRUI,29991231,row-zawq~5smg.xg4j,t5pc-eb34,20131108,GARAGEP,2449,Garage Kruiskade (Rotterdam),t5pc-eb34,34
+row-igfe-iffj.3zv2,772_MATHIL,29991231,row-igfe-iffj.3zv2,t5pc-eb34,20130919,GARAGEP,2062,Garage Mathildelaan (Eindhoven),t5pc-eb34,173
+row-wbsh~vsta_yw7u,1674_LIGA,29991231,row-wbsh~vsta_yw7u,t5pc-eb34,20131009,GARAGEP,1674,Garage Liga (Roosendaal),t5pc-eb34,184
+row-vw7j_phzc.h8ig,537_ZEE,29991231,row-vw7j_phzc.h8ig,t5pc-eb34,20131105,GARAGEP,2062,Garage Zeehos (Katwijk),t5pc-eb34,1
+row-8vx3-y5ha_mdgy,599_EUKO,29991231,row-8vx3-y5ha_mdgy,t5pc-eb34,20131113,GARAGEP,2460,Garage Eudokiaplein (Rotterdam),t5pc-eb34,80
+row-s5rf~uq6z.v72m,363_P21,29991231,row-s5rf~uq6z.v72m,t5pc-eb34,20131118,GARAGEP,2448,Garage Amsterdamse Poort P21 (Amsterdam),t5pc-eb34,93
+row-585q-9frn-3jgx,935_BASSIN,29991231,row-585q-9frn-3jgx,t5pc-eb34,20140101,GARAGEP,2448,Bassin (Maastricht),t5pc-eb34,54
+row-65bi-9wph_dv2i,917_CORIO,29991231,row-65bi-9wph_dv2i,t5pc-eb34,20140101,GARAGEP,2448,,t5pc-eb34,124
+row-zmu2.p58z.dci9,637_ORFSCH,29991231,row-zmu2.p58z.dci9,t5pc-eb34,20131024,GARAGEP,2062,Garage Orfeoschouw (Zoetermeer),t5pc-eb34,223
+row-yutg_g5ht-x6az,345_GEM,29991231,row-yutg_g5ht-x6az,t5pc-eb34,20140101,GARAGEP,2062,Garage Gemeentehuis (Veenendaal),t5pc-eb34,39
+row-nxc4~9pqp~e79m,363_BIJ,29991231,row-nxc4~9pqp~e79m,t5pc-eb34,20131122,GARAGEP,2448,Garage De Bijenkorf (Amsterdam),t5pc-eb34,73
+row-42ur_jcdz-sdm9,400_SLUI,29991231,row-42ur_jcdz-sdm9,t5pc-eb34,20141106,GARAGEP,2062,Garage Sluisdijk (Den Helder),t5pc-eb34,215
+row-khg9-s925.d56n,321_CAST,29991231,row-khg9-s925.d56n,t5pc-eb34,20131107,GARAGEP,2449,Garage Castellum (Houten),t5pc-eb34,199
+row-56i4_zku2~wczb,826_AREND,29991231,row-56i4_zku2~wczb,t5pc-eb34,20140101,GARAGEP,2448,Garage Arendshof (Oosterhout),t5pc-eb34,128
+row-zyuy~ttq7.qqg2,1926_PARA,29991231,row-zyuy~ttq7.qqg2,t5pc-eb34,20131105,GARAGEP,2062,Garage Parade (Pijnacker-Nootdorp),t5pc-eb34,12
+row-ggpz-pkw4-twx5,363_BOS,29991231,row-ggpz-pkw4-twx5,t5pc-eb34,20131122,GARAGEP,2448,Garage Bos en Lommer (Amsterdam),t5pc-eb34,66
+row-ck3p.2uja_yztv,268_CASI,29991231,row-ck3p.2uja_yztv,t5pc-eb34,20131111,GARAGEP,2453,Garage Holland Casino (Nijmegen),t5pc-eb34,194
+row-ajgd.y243_zy9t,363_EURP,29991231,row-ajgd.y243_zy9t,t5pc-eb34,20131122,GARAGEP,2448,Garage Europarking (Amsterdam),t5pc-eb34,159
+row-rj54_naj8.h3pq,1674_BIGG,29991231,row-rj54_naj8.h3pq,t5pc-eb34,20131009,GARAGEP,1674,Garage Biggelaar (Roosendaal),t5pc-eb34,29
+row-uvps_z8xi.f49i,637_ENGLN,29991231,row-uvps_z8xi.f49i,t5pc-eb34,20131024,GARAGEP,2062,Garage Engelandlaan (Zoetermeer),t5pc-eb34,52
+row-pte8_azg7_thqx,1926_KEI,29991231,row-pte8_azg7_thqx,t5pc-eb34,20131113,GARAGEP,2460,Garage Keijzershof (Pijnacker-Nootdorp),t5pc-eb34,169
+row-djf8~rf8w_punj,106_TORL,29991231,row-djf8~rf8w_punj,t5pc-eb34,20131107,GARAGEP,2449,Garage Torenlaan (Assen),t5pc-eb34,204
+row-zzc7.64hg-nue3,1674_MLHL,29991231,row-zzc7.64hg-nue3,t5pc-eb34,20131009,GARAGEP,1674,Garage Mill Hill (Roosendaal),t5pc-eb34,205
+row-eamg_ahf2-gr38,402_HILVER,29991231,row-eamg_ahf2-gr38,t5pc-eb34,20140101,GARAGEP,2448,Garage Hilvertshof (Hilversum),t5pc-eb34,143
+row-vah6~rqjd.qybz,599_MAR,29991231,row-vah6~rqjd.qybz,t5pc-eb34,20140901,GARAGEP,2449,Garage Markthal (Rotterdam),t5pc-eb34,192
+row-pt83~pmwm-qsgv,362_VD,29991231,row-pt83~pmwm-qsgv,t5pc-eb34,20131030,GARAGEP,2062,Garage V&D Centre (Amstelveen),t5pc-eb34,23
+row-3ehf~uvzw.q6c2,518_SPUI,29991231,row-3ehf~uvzw.q6c2,t5pc-eb34,20131030,GARAGEP,2062,Garage Spui Centre (Den Haag),t5pc-eb34,72
+row-szgr-vnfi.i5t3,344_P1,29991231,row-szgr-vnfi.i5t3,t5pc-eb34,20131108,GARAGEP,2449,Garage Hoog Catharijne P1 (utrecht),t5pc-eb34,181
+row-kh7w.zy5i~p2px,935_GRIEND,29991231,row-kh7w.zy5i~p2px,t5pc-eb34,20140101,GARAGEP,2448,Garage De Griend (Maastricht),t5pc-eb34,67
+row-76bh-f5tq-nwf8,599_WPC,29991231,row-76bh-f5tq-nwf8,t5pc-eb34,20131105,GARAGEP,2062,Garage World Port Center (Rotterdam),t5pc-eb34,96
+row-vu8f_dsvp-cphm,363_OLYM,29991231,row-vu8f_dsvp-cphm,t5pc-eb34,20131030,GARAGEP,2062,Garage Olympisch Stadion (Amsterdam),t5pc-eb34,114
+row-qwd9-tyex-dh77,1742_DHW,29991231,row-qwd9-tyex-dh77,t5pc-eb34,20131009,GARAGEP,1742,Garage De Hoge Wal (Rijssen),t5pc-eb34,46
+row-c3rm~sa9j.gjcy,363_KOLK,29991231,row-c3rm~sa9j.gjcy,t5pc-eb34,20131122,GARAGEP,2448,"""Garage Nieuwendijk, voorheen De Kolk (Amsterdam)""",t5pc-eb34,113
+row-gpac_qp2u-vcq8,106_CITA,29991231,row-gpac_qp2u-vcq8,t5pc-eb34,20131107,GARAGEP,2449,Garage Citadel (Assen),t5pc-eb34,220
+row-f4eu.b2xk-nuww,202_VELP,29991231,row-f4eu.b2xk-nuww,t5pc-eb34,20150204,GARAGEP,2485,Garage Velperpoort (Arnhem),t5pc-eb34,101
+row-pxaz_txct_tfhf,473_CASI,29991231,row-pxaz_txct_tfhf,t5pc-eb34,20131111,GARAGEP,2453,Garage Holland Casino (Zandvoort),t5pc-eb34,176
+row-h6n4-fyy5.842x,14_RADEM,29991231,row-h6n4-fyy5.842x,t5pc-eb34,20130916,GARAGEP,2448,Garage Rademarkt (Groningen),t5pc-eb34,200
+row-nd9y~9ttb_fzt7,398_HEERHU,29991231,row-nd9y~9ttb_fzt7,t5pc-eb34,20150522,GARAGEP,2085,Heerhugowaard Centrum,t5pc-eb34,105
+row-tgnw~8rmj_khqg,603_BOGP1,29991231,row-tgnw~8rmj_khqg,t5pc-eb34,20140101,GARAGEP,2448,Garage Bogaardplein P1 (Rijswijk),t5pc-eb34,5
+row-iarm~2vuw_3upk,1916_DAM,29991231,row-iarm~2vuw_3upk,t5pc-eb34,20141120,GARAGEP,1916,Garage Damplein (Leidschendam-Voorburg),t5pc-eb34,120
+row-29pj-6ejy~g55a,150_BOR,29991231,row-29pj-6ejy~g55a,t5pc-eb34,20131126,GARAGEP,2448,Garage De Boreel (Deventer),t5pc-eb34,116
+row-3erq.kanf-x5x2,106_NEPT,29991231,row-3erq.kanf-x5x2,t5pc-eb34,20131107,GARAGEP,2449,Garage Neptunusplein (Assen),t5pc-eb34,18

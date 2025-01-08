@@ -1,0 +1,169 @@
+{
+  "@context" : "http://www.w3.org/ns/csvw",
+  "@type" : "TableGroup",
+  "tables" : [ {
+    "@type" : "Table",
+    "url" : "parkovaci_garaze_r_n1_t10.csv",
+    "tableSchema" : {
+      "@type" : "Schema",
+      "columns" : [ {
+        "@type" : "Column",
+        "titles" : "Subject",
+        "name" : "t5pc-eb34",
+        "valueUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}",
+        "suppressOutput" : true
+      }, {
+        "@type" : "Column",
+        "titles" : "areaid",
+        "name" : "areaid",
+        "propertyUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/areaid",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "enddataarea",
+        "name" : "enddataarea",
+        "propertyUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/enddataarea",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "rowID",
+        "name" : "rowID",
+        "propertyUrl" : "http://www.socrata.com/rdf/terms#rowID",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "member",
+        "name" : "member",
+        "propertyUrl" : "http://www.w3.org/2000/01/rdf-schema#member",
+        "valueUrl" : "https://opendata.rdw.nl/resource/{+member}",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "startdataarea",
+        "name" : "startdataarea",
+        "propertyUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/startdataarea",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "usageid",
+        "name" : "usageid",
+        "propertyUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/usageid",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "areamanagerid",
+        "name" : "areamanagerid",
+        "propertyUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/areamanagerid",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "areadesc",
+        "name" : "areadesc",
+        "propertyUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/areadesc",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "type",
+        "name" : "type",
+        "propertyUrl" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl" : "https://opendata.rdw.nl/resource/{+type}",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "titles" : "location",
+        "name" : "location",
+        "propertyUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/location",
+        "valueUrl" : "https://blank_Nodes_IRI.org/{+location}",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}"
+      }, {
+        "@type" : "Column",
+        "propertyUrl" : "rdf:type",
+        "valueUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34",
+        "aboutUrl" : "https://opendata.rdw.nl/resource/t5pc-eb34/{+t5pc-eb34}",
+        "virtual" : true
+      } ],
+      "foreignKeys" : [ {
+        "columnReference" : "location",
+        "reference" : {
+          "resource" : "parkovaci_garaze_r_n1_t11.csv",
+          "columnReference" : "SpatialThing"
+        }
+      } ],
+      "primaryKey" : "t5pc-eb34",
+      "rowTitles" : [ "t5pc-eb34", "areaid", "enddataarea", "rowID", "member", "startdataarea", "usageid", "areamanagerid", "areadesc", "type", "location" ]
+    },
+    "transformations" : [ {
+      "@type" : "Template",
+      "url" : "https://raw.githubusercontent.com/LadyMalande/RDFtoCSVNotes/main/scripts/transformationForBlankNodesStreamed.js",
+      "scriptFormat" : "http://www.iana.org/assignments/media-types/application/javascript",
+      "targetFormat" : "http://www.iana.org/assignments/media-types/turtle",
+      "source" : "rdf",
+      "titles" : "RDF format used as the output format in the transformation from CSV to RDF"
+    } ]
+  }, {
+    "@type" : "Table",
+    "url" : "parkovaci_garaze_r_n1_t11.csv",
+    "tableSchema" : {
+      "@type" : "Schema",
+      "columns" : [ {
+        "@type" : "Column",
+        "titles" : "Subject",
+        "name" : "SpatialThing",
+        "valueUrl" : "https://blank_Nodes_IRI.org/{+SpatialThing}",
+        "suppressOutput" : true
+      }, {
+        "@type" : "Column",
+        "titles" : "lat",
+        "name" : "lat",
+        "propertyUrl" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
+      }, {
+        "@type" : "Column",
+        "titles" : "cityName",
+        "name" : "cityName",
+        "propertyUrl" : "http://www.w3.org/2000/10/swap/pim/usps#cityName"
+      }, {
+        "@type" : "Column",
+        "titles" : "long",
+        "name" : "long",
+        "propertyUrl" : "http://www.w3.org/2003/01/geo/wgs84_pos#long"
+      }, {
+        "@type" : "Column",
+        "titles" : "stateAbbr",
+        "name" : "stateAbbr",
+        "propertyUrl" : "http://www.w3.org/2000/10/swap/pim/usps#stateAbbr"
+      }, {
+        "@type" : "Column",
+        "titles" : "deliveryAddress",
+        "name" : "deliveryAddress",
+        "propertyUrl" : "http://www.w3.org/2000/10/swap/pim/usps#deliveryAddress"
+      }, {
+        "@type" : "Column",
+        "titles" : "type",
+        "name" : "type",
+        "propertyUrl" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl" : "http://www.w3.org/2003/01/geo/wgs84_pos#{+type}"
+      }, {
+        "@type" : "Column",
+        "titles" : "zipCode",
+        "name" : "zipCode",
+        "propertyUrl" : "http://www.w3.org/2000/10/swap/pim/usps#zipCode"
+      }, {
+        "@type" : "Column",
+        "propertyUrl" : "rdf:type",
+        "valueUrl" : "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing",
+        "aboutUrl" : "https://blank_Nodes_IRI.org/{+SpatialThing}",
+        "virtual" : true
+      } ],
+      "primaryKey" : "SpatialThing",
+      "rowTitles" : [ "SpatialThing", "lat", "cityName", "long", "stateAbbr", "deliveryAddress", "type", "zipCode" ]
+    },
+    "transformations" : [ {
+      "@type" : "Template",
+      "url" : "https://raw.githubusercontent.com/LadyMalande/RDFtoCSVNotes/main/scripts/transformationForBlankNodesStreamed.js",
+      "scriptFormat" : "http://www.iana.org/assignments/media-types/application/javascript",
+      "targetFormat" : "http://www.iana.org/assignments/media-types/turtle",
+      "source" : "rdf",
+      "titles" : "RDF format used as the output format in the transformation from CSV to RDF"
+    } ]
+  } ]
+}
