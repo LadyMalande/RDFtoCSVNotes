@@ -9,6 +9,7 @@ Notes and background examples for repository RDFtoCSV. The structure of this rep
 - **performance_tests_RDF_data** - contains RDF used for running performance tests. 
 - **pictures** - any pictures related to the thesis and other repositories
 - **scripts** - scripts for CSVW metadata attribute *transformation*
+- **test_scenarios_data** - contains 2 files that have been used in command line manual test scenarios for methods Streaming and BigFileSTreaming.
 
 
 
