@@ -1,0 +1,5 @@
+org.rdftocsvconverter.RDFtoCSVW
+org.rdftocsvconverter.RDFtoCSVW.api.controller
+org.rdftocsvconverter.RDFtoCSVW.config
+org.rdftocsvconverter.RDFtoCSVW.enums
+org.rdftocsvconverter.RDFtoCSVW.service

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.rdftocsvconverter.RDFtoCSVW"},{"l":"org.rdftocsvconverter.RDFtoCSVW.api.controller"},{"l":"org.rdftocsvconverter.RDFtoCSVW.config"},{"l":"org.rdftocsvconverter.RDFtoCSVW.enums"},{"l":"org.rdftocsvconverter.RDFtoCSVW.service"}];updateSearchResults();
