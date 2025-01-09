@@ -16,3 +16,10 @@ Notes and background examples for repository RDFtoCSV. The structure of this rep
 ## Evaluation
 The evaluation CSVs for comparison of output are available in the directory /evaluation.
 The directory is split into subdirectories according to the data set evaluated.
+
+## test_scenarios_data
+Be aware, that **typy-pracovních-vzathů.nt** is suitable ONLY for feeding to the command line with -p streaming -s parameters!!!
+
+The file contains special word at its end to signalize to the program, that the input is ending. 
+
+If the file is fed to any other algorithm, the conversion will fail due to type mismatch!!!

@@ -1,0 +1,1283 @@
+{
+  "@context" : "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/1999-01-01",
+  "typ" : "Číselník",
+  "název" : {
+    "cs" : "Ekonomické zóny",
+    "en" : "Economic zones"
+  },
+  "popis" : {
+    "cs" : "Ekonomické zóny, kód ČSÚ: 5581 (akronym: EKZONY)"
+  },
+  "akronym" : "EKZONY",
+  "definice" : {
+    "cs" : "Předmětem číselníku Ekonomické zóny jsou ekonomická uskupení světa, která jsou významná pro statistiku mezinárodního obchodu. Ekonomické zóny jsou součástí Klasifkace zemí (CZ-GEONOM). Dalšími částmi jsou Geonomenklatura (alfabetické kódy a názvy zemí a území světa) a Geografické zóny.\nKlasifikace CZ-GEONOM byla zavedena sdělením ČSÚ. Od roku 2009 se aktualizace sdělením ČSÚ nezveřejňují, Geonomenklatura, jako část klasifikace CZ-GEONOM, je aktualizována na základě nařízení Komise (EU). Geografické a ekonomické zóny jsou aktualizovány na základě změnových souborů Eurostatu.\nKlasifikace CZ-GEONOM  vychází z evropské předlohy „The nomenclature of countries and territories for the European statistics on international trade in goods and on the geographical breakdown for other business statistics (GEONOMECLATURE)“."
+  },
+  "platnost" : {
+    "typ" : "Časový interval",
+    "konec" : {
+      "typ" : "Časový okamžik",
+      "nespecifikovaný" : true
+    },
+    "začátek" : {
+      "typ" : "Časový okamžik",
+      "datum" : "1999-01-01"
+    }
+  },
+  "kód" : "42",
+  "položky" : [ {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1000",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2004-01-01"
+      }
+    },
+    "kód" : "1000",
+    "název" : {
+      "cs" : "Svět",
+      "en" : "World"
+    },
+    "zkr_název" : {
+      "cs" : "Svět",
+      "en" : "World"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1010",
+    "typ" : "Položka",
+    "popis" : {
+      "cs" : "V materiálu EUROSTATU \"Geonomenclature applicable to European statistics on international trade in goods - 2017 edition\" jsme zaznamenaly v roce 2017 změnu v anglickém názvu této položky. Původní název položky „European Union (evolutionary)“ doznal změny na nový název položky „European Union (evolutionary definition)“. Český název zůstal nezměněn („Evropská unie (vývojově“). Tato změna anglického názvu položky byla v číselníku zavedena od 1. 1. 2018."
+    },
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1010",
+    "název" : {
+      "cs" : "Evropská unie (vývojově)",
+      "en" : "European Union (evolutionary definition)"
+    },
+    "zkr_název" : {
+      "cs" : "Evropská unie (vývojově)",
+      "en" : "European Union (evolutionary definition)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1011",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1011",
+    "název" : {
+      "cs" : "Země mimo Evropskou unii (vývojově)",
+      "en" : "Extra-European Union (evolutionary definition)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo Evropskou unii (vývojově)",
+      "en" : "Extra-European Union (evolutionary definition)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1013",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1013",
+    "název" : {
+      "cs" : "Eurozóna od roku 1999 (vývojově)",
+      "en" : "Euro area since 1999 (evolutionary definition)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna od roku 1999 (vývojově)",
+      "en" : "Euro area since 1999 (evolutionary definition)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1014",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1014",
+    "název" : {
+      "cs" : "Země mimo eurozónu 1999 (vývojově)",
+      "en" : "Extra-euro area since 1999 (evolutionary definition)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu 1999 (vývojově)",
+      "en" : "Extra-euro area since 1999 (evolutionary definition)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1021",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1021",
+    "název" : {
+      "cs" : "Evropské sdružení volného obchodu",
+      "en" : "European Free Trade Association"
+    },
+    "zkr_název" : {
+      "cs" : "ESVO",
+      "en" : "EFTA"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1031",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1031",
+    "název" : {
+      "cs" : "Africké, karibské a tichomořské země",
+      "en" : "African, Caribbean and Pacific countries"
+    },
+    "zkr_název" : {
+      "cs" : "AKT",
+      "en" : "ACP"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1051",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1051",
+    "název" : {
+      "cs" : "Země Středomoří (bez EU)",
+      "en" : "Mediterranean basin countries (excluding EU)"
+    },
+    "zkr_název" : {
+      "cs" : "Země Středomoří (bez EU)",
+      "en" : "Mediterranean basin countries (excluding EU)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1053",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1053",
+    "název" : {
+      "cs" : "Organizace zemí vyvážejících ropu",
+      "en" : "Organisation of Petroleum Exporting Countries"
+    },
+    "zkr_název" : {
+      "cs" : "OPEC",
+      "en" : "OPEC"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1055",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2002-01-01"
+      }
+    },
+    "kód" : "1055",
+    "název" : {
+      "cs" : "Unie pro Středomoří (bez EU)",
+      "en" : "Union for the Mediterranean (excluding EU)"
+    },
+    "zkr_název" : {
+      "cs" : "UfM (bez EU)",
+      "en" : "UfM (excluding EU)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1057",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1057",
+    "název" : {
+      "cs" : "Sdružení národů jihovýchodní Asie",
+      "en" : "Association of South-East Asian Nations"
+    },
+    "zkr_název" : {
+      "cs" : "ASEAN",
+      "en" : "ASEAN"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1058",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1058",
+    "název" : {
+      "cs" : "Latinskoamerické země",
+      "en" : "Latin American countries"
+    },
+    "zkr_název" : {
+      "cs" : "Latinskoamerické země",
+      "en" : "Latin American countries"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1059",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1059",
+    "název" : {
+      "cs" : "Jihoasijské sdružení pro regionální spolupráci",
+      "en" : "South Asian Assotiation for Regional Cooperation"
+    },
+    "zkr_název" : {
+      "cs" : "SAARC",
+      "en" : "SAARC"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1090",
+    "typ" : "Položka",
+    "popis" : {
+      "cs" : "V materiálu EUROSTATU \"Geonomenclature applicable to European statistics on international trade in goods - 2017 edition\" jsme zaznamenaly v roce 2017 výskyt nových položek 1090, 1091 a 1092. Tyto položky byly zavedeny do číselníku od 1. 1. 2018."
+    },
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2018-01-01"
+      }
+    },
+    "kód" : "1090",
+    "název" : {
+      "cs" : "Různé - nespecifikované a nevymezené země",
+      "en" : "Miscellaneous - countries not specified and countries not determined"
+    },
+    "zkr_název" : {
+      "cs" : "Různé - nespecifikované a nevymezené země",
+      "en" : "Miscellaneous-countries not specified and countries not det."
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1091",
+    "typ" : "Položka",
+    "popis" : {
+      "cs" : "V materiálu EUROSTATU \"Geonomenclature applicable to European statistics on international trade in goods - 2017 edition\" jsme zaznamenaly v roce 2017 výskyt nových položek 1090, 1091 a 1092. Tyto položky byly zavedeny do číselníku od 1. 1. 2018."
+    },
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2018-01-01"
+      }
+    },
+    "kód" : "1091",
+    "název" : {
+      "cs" : "Různé - nespecifikované země, interní",
+      "en" : "Miscellaneous - countries not specified intra"
+    },
+    "zkr_název" : {
+      "cs" : "Různé - nespecifikované země, interní",
+      "en" : "Miscellaneous - countries not specified intra"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1092",
+    "typ" : "Položka",
+    "popis" : {
+      "cs" : "V materiálu EUROSTATU \"Geonomenclature applicable to European statistics on international trade in goods - 2017 edition\" jsme zaznamenaly v roce 2017 výskyt nových položek 1090, 1091 a 1092. Tyto položky byly zavedeny do číselníku od 1. 1. 2018."
+    },
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2018-01-01"
+      }
+    },
+    "kód" : "1092",
+    "název" : {
+      "cs" : "Různé - nespecifikované země, externí",
+      "en" : "Miscellaneous - countries not specified extra"
+    },
+    "zkr_název" : {
+      "cs" : "Různé - nespecifikované země, externí",
+      "en" : "Miscellaneous - countries not specified extra"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1110",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1110",
+    "název" : {
+      "cs" : "Evropská unie (15)",
+      "en" : "European Union (15)"
+    },
+    "zkr_název" : {
+      "cs" : "Evropská unie (15)",
+      "en" : "European Union (15)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1111",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2004-05-01"
+      }
+    },
+    "kód" : "1111",
+    "název" : {
+      "cs" : "Evropská unie (25)",
+      "en" : "European Union (25)"
+    },
+    "zkr_název" : {
+      "cs" : "Evropská unie (25)",
+      "en" : "European Union (25)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1112",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2007-01-01"
+      }
+    },
+    "kód" : "1112",
+    "název" : {
+      "cs" : "Evropská unie (27)",
+      "en" : "European Union (27)"
+    },
+    "zkr_název" : {
+      "cs" : "Evropská unie (27)",
+      "en" : "European Union (27)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1113",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2003-01-01"
+      }
+    },
+    "kód" : "1113",
+    "název" : {
+      "cs" : "Eurozóna (12)",
+      "en" : "Euro-zone (12)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (12)",
+      "en" : "Euro-zone (12)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1114",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2007-01-01"
+      }
+    },
+    "kód" : "1114",
+    "název" : {
+      "cs" : "Eurozóna (13)",
+      "en" : "Euro-zone (13)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (13)",
+      "en" : "Euro-zone (13)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1115",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1115",
+    "název" : {
+      "cs" : "Evropský hospodářský prostor",
+      "en" : "European Economic Area"
+    },
+    "zkr_název" : {
+      "cs" : "EHP",
+      "en" : "EEA"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1116",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2008-01-01"
+      }
+    },
+    "kód" : "1116",
+    "název" : {
+      "cs" : "Eurozóna (15)",
+      "en" : "Euro-zone (15)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (15)",
+      "en" : "Euro-zone (15)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1117",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2010-01-01"
+      }
+    },
+    "kód" : "1117",
+    "název" : {
+      "cs" : "Eurozóna (16)",
+      "en" : "Euro-zone (16)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (16)",
+      "en" : "Euro-zone (16)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1118",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2010-01-01"
+      }
+    },
+    "kód" : "1118",
+    "název" : {
+      "cs" : "Země mimo eurozónu (16)",
+      "en" : "Extra-euro-zone (16)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (16)",
+      "en" : "Extra-euro-zone (16)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1120",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1120",
+    "název" : {
+      "cs" : "Země západního Balkánu",
+      "en" : "Western Balkan Countries"
+    },
+    "zkr_název" : {
+      "cs" : "WBCs",
+      "en" : "WBCs"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1130",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2001-01-01"
+      }
+    },
+    "kód" : "1130",
+    "název" : {
+      "cs" : "Kandidátské země",
+      "en" : "Candidate countries"
+    },
+    "zkr_název" : {
+      "cs" : "Kandidátské země",
+      "en" : "Candidate countries"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1310",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1310",
+    "název" : {
+      "cs" : "Severoamerická dohoda o volném obchodu",
+      "en" : "North American Free Trade Agreement"
+    },
+    "zkr_název" : {
+      "cs" : "NAFTA",
+      "en" : "NAFTA"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1330",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1330",
+    "název" : {
+      "cs" : "Společný jihoamerický trh",
+      "en" : "South American Common Market"
+    },
+    "zkr_název" : {
+      "cs" : "MERCOSUR",
+      "en" : "MERCOSUR"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1410",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1410",
+    "název" : {
+      "cs" : "Nově industrializované asijské země",
+      "en" : "Newly-industrialised Asian countries"
+    },
+    "zkr_název" : {
+      "cs" : "NICs",
+      "en" : "NICs"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1415",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1415",
+    "název" : {
+      "cs" : "Asijská dynamická hospodářství",
+      "en" : "Dynamic Asian economies"
+    },
+    "zkr_název" : {
+      "cs" : "DAEs",
+      "en" : "DAEs"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1420",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1420",
+    "název" : {
+      "cs" : "Asijsko-tichomořská hospodářská spolupráce",
+      "en" : "Asia Pacific Economic Cooperation"
+    },
+    "zkr_název" : {
+      "cs" : "APEC",
+      "en" : "APEC"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1430",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2004-01-01"
+      }
+    },
+    "kód" : "1430",
+    "název" : {
+      "cs" : "Nejméně rozvinuté země",
+      "en" : "Least Developed Countries"
+    },
+    "zkr_název" : {
+      "cs" : "LDC",
+      "en" : "LDC"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1811",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1811",
+    "název" : {
+      "cs" : "Země mimo Evropskou unii (15)",
+      "en" : "Extra-European Union (15)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo Evropskou unii (15)",
+      "en" : "Extra-European Union (15)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1812",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2004-05-01"
+      }
+    },
+    "kód" : "1812",
+    "název" : {
+      "cs" : "Země mimo Evropskou unii (25)",
+      "en" : "Extra-European Union (25)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo Evropskou unii (25)",
+      "en" : "Extra-European Union (25)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1813",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2003-01-01"
+      }
+    },
+    "kód" : "1813",
+    "název" : {
+      "cs" : "Země mimo eurozónu (12)",
+      "en" : "Extra-euro-zone (12)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (12)",
+      "en" : "Extra-euro-zone (12)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1814",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2007-01-01"
+      }
+    },
+    "kód" : "1814",
+    "název" : {
+      "cs" : "Země mimo Evropskou unii (27)",
+      "en" : "Extra-European Union (27)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo Evropskou unii (27)",
+      "en" : "Extra-European Union (27)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1815",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1815",
+    "název" : {
+      "cs" : "Společenství nezávislých států",
+      "en" : "Commonwealth of Independent States"
+    },
+    "zkr_název" : {
+      "cs" : "SNS",
+      "en" : "CIS"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1816",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2007-01-01"
+      }
+    },
+    "kód" : "1816",
+    "název" : {
+      "cs" : "Země mimo eurozónu (13)",
+      "en" : "Extra-euro-zone (13)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (13)",
+      "en" : "Extra-euro-zone (13)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1817",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2008-01-01"
+      }
+    },
+    "kód" : "1817",
+    "název" : {
+      "cs" : "Země mimo eurozónu (15)",
+      "en" : "Extra-euro-zone (15)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (15)",
+      "en" : "Extra-euro-zone (15)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1820",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1820",
+    "název" : {
+      "cs" : "Organizace pro hospodářskou spolupráci a rozvoj (bez EU)",
+      "en" : "Organisation for Economic Cooperation and Development (excluding EU)"
+    },
+    "zkr_název" : {
+      "cs" : "OECD (bez EU)",
+      "en" : "OECD (excluding EU)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/1913",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "1999-01-01"
+      }
+    },
+    "kód" : "1913",
+    "název" : {
+      "cs" : "Eurozóna (11)",
+      "en" : "Euro zone (11)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (11)",
+      "en" : "Euro zone (11)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2017",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2011-01-01"
+      }
+    },
+    "kód" : "2017",
+    "název" : {
+      "cs" : "Eurozóna (17)",
+      "en" : "Euro-zone (17)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (17)",
+      "en" : "Euro-zone (17)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2018",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2014-01-01"
+      }
+    },
+    "kód" : "2018",
+    "název" : {
+      "cs" : "Eurozóna (18)",
+      "en" : "Euro-zone (18)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (18)",
+      "en" : "Euro-zone (18)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2019",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2015-01-01"
+      }
+    },
+    "kód" : "2019",
+    "název" : {
+      "cs" : "Eurozóna (19)",
+      "en" : "Euro area (19)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (19)",
+      "en" : "Euro area (19)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2020",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2023-01-01"
+      }
+    },
+    "kód" : "2020",
+    "název" : {
+      "cs" : "Eurozóna (20)",
+      "en" : "Euro area (20)"
+    },
+    "zkr_název" : {
+      "cs" : "Eurozóna (20)",
+      "en" : "Euro area (20)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2027",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2020-02-01"
+      }
+    },
+    "kód" : "2027",
+    "název" : {
+      "cs" : "Evropská unie (27_2020)",
+      "en" : "European Union (27_2020)"
+    },
+    "zkr_název" : {
+      "cs" : "Evropská unie (27_2020)",
+      "en" : "European Union (27_2020)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2028",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2013-07-01"
+      }
+    },
+    "kód" : "2028",
+    "název" : {
+      "cs" : "Evropská unie (28)",
+      "en" : "European Union (28)"
+    },
+    "zkr_název" : {
+      "cs" : "Evropská unie (28)",
+      "en" : "European Union (28)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2117",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2011-01-01"
+      }
+    },
+    "kód" : "2117",
+    "název" : {
+      "cs" : "Země mimo eurozónu (17)",
+      "en" : "Extra-euro-zone (17)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (17)",
+      "en" : "Extra-euro-zone (17)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2118",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2014-01-01"
+      }
+    },
+    "kód" : "2118",
+    "název" : {
+      "cs" : "Země mimo eurozónu (18)",
+      "en" : "Extra-euro-zone (18)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (18)",
+      "en" : "Extra-euro-zone (18)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2119",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2015-01-01"
+      }
+    },
+    "kód" : "2119",
+    "název" : {
+      "cs" : "Země mimo eurozónu (19)",
+      "en" : "Extra-euro area (19)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (19)",
+      "en" : "Extra-euro area (19)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2120",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2023-01-01"
+      }
+    },
+    "kód" : "2120",
+    "název" : {
+      "cs" : "Země mimo eurozónu (20)",
+      "en" : "Extra-euro area (20)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo eurozónu (20)",
+      "en" : "Extra-euro area (20)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2127",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2020-02-01"
+      }
+    },
+    "kód" : "2127",
+    "název" : {
+      "cs" : "Země mimo Evropskou unii (27_2020)",
+      "en" : "Extra-European Union (27_2020)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo Evropskou unii (27_2020)",
+      "en" : "Extra-European Union (27_2020)"
+    }
+  }, {
+    "iri" : "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/číselníky/42/položka/2128",
+    "typ" : "Položka",
+    "platnost" : {
+      "typ" : "Časový interval",
+      "konec" : {
+        "typ" : "Časový okamžik",
+        "nespecifikovaný" : true
+      },
+      "začátek" : {
+        "typ" : "Časový okamžik",
+        "datum" : "2013-07-01"
+      }
+    },
+    "kód" : "2128",
+    "název" : {
+      "cs" : "Země mimo Evropskou unii (28)",
+      "en" : "Extra-European Union (28)"
+    },
+    "zkr_název" : {
+      "cs" : "Země mimo Evropskou unii (28)",
+      "en" : "Extra-European Union (28)"
+    }
+  } ]
+}
